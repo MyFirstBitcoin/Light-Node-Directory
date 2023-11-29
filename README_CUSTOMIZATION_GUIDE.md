@@ -38,7 +38,7 @@ Each Light Node has a `README.md` file in its directory with a pre-filled templa
 
 If you need to reset your README file to its original template, you can use the template provided in our `README_TEMPLATE.md` file. Here's how:
 
-1. **Open the Template File**: Navigate to the [README_TEMPLATE.md](link-to-README_TEMPLATE.md) in our repository.
+1. **Open the Template File**: Navigate to the [README_TEMPLATE.md](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/README_TEMPLATE.md) in our repository.
 2. **Copy the Template**: Select all the content and copy it to your clipboard.
 3. **Paste in Your README**: Go to your README file, enter edit mode, and replace the existing content with the copied template.
 4. **Customize Again**: Follow the steps in this guide to re-customize your README.
