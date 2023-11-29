@@ -12,13 +12,16 @@ The **Light-Node-Network** repository is dedicated to:
 ## 🚀 Getting Started
 
 ### 1. **Locate Your Node's Directory**
-Navigate to your Light Node's specific directory within this repository. If you're new to GitHub or need guidance, please refer to our detailed [Getting Started Guide](link-to-getting-started-guide).
+Navigate to your Light Node's specific directory within this repository. If you're new to GitHub or need guidance on using the GitHub web UI, please refer to our detailed [Getting Started Guide](link-to-getting-started-guide).
 
 ### 2. **Personalize Your Node's README**
-Customize the README file in your directory with your Node's information. See our [README Customization Guide](link-to-readme-customization-guide) for step-by-step instructions.
+Customize the README file in your directory with your Node's information. For step-by-step instructions using the GitHub web interface, see our [README Customization Guide](link-to-readme-customization-guide).
 
-### 3. **Access Resources**
-Utilize the resources, guides, and templates provided to manage your Light Node effectively.
+### 3. **Engage in Discussions**
+Familiarize yourself with and actively participate in the [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions). This is a great place to connect with other Light Nodes, share experiences, seek advice, engage the public, and collaborate on initiatives.
+
+### 4. **Access Resources**
+Utilize the resources, guides, and templates provided to manage your Light Node effectively. These materials are designed to be user-friendly, ensuring a smooth experience even for those new to GitHub.
 
 ## 🔗 Quick Links
 
@@ -28,6 +31,6 @@ Utilize the resources, guides, and templates provided to manage your Light Node 
 ## 📚 Support and Assistance
 
 - For comprehensive information about Light Node operations, visit the [Education Network Repository](https://github.com/MyFirstBitcoin/Education-Network).
-- Need help or have questions about this repository? Check out the `SUPPORT_AND_RESOURCES.md` file or initiate a discussion in the 'Discussions' tab.
+- Need help or have questions about this repository? Check out the `SUPPORT_AND_RESOURCES.md` file or initiate a discussion in the [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions) tab.
 
 *We are thrilled to have you in our network. Your active participation is pivotal in spreading Bitcoin education worldwide!*
