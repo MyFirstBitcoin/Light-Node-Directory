@@ -34,6 +34,15 @@ Each Light Node has a `README.md` file in its directory with a pre-filled templa
 1. **Preview Your Changes**: Use the 'Preview changes' tab to see how your README will look.
 2. **Commit Your Edits**: Scroll down, enter a brief summary of your changes in the commit message box, and click 'Commit changes'.
 
+## Resetting to the Original Template
+
+If you need to reset your README file to its original template, you can use the template provided in our `README_TEMPLATE.md` file. Here's how:
+
+1. **Open the Template File**: Navigate to the [README_TEMPLATE.md](link-to-README_TEMPLATE.md) in our repository.
+2. **Copy the Template**: Select all the content and copy it to your clipboard.
+3. **Paste in Your README**: Go to your README file, enter edit mode, and replace the existing content with the copied template.
+4. **Customize Again**: Follow the steps in this guide to re-customize your README.
+
 ## ❓ Need Help?
 
 If you have any difficulties or questions, please ask in our [Discussions forum](https://github.com/orgs/MyFirstBitcoin/discussions) or consult the `SUPPORT_AND_RESOURCES.md` file for more assistance.
