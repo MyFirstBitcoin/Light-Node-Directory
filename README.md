@@ -1,11 +1,3 @@
-## 🚀 Getting Started
-
-To begin your journey with the Light Node Network, please follow our [First Steps Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/LLN_FIRST_STEPS.md). This guide includes detailed instructions on accessing the repository, finding your Light Node directory, and customizing your README file using the template provided.
-
-If you are new to GitHub, we recommend starting with our [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md) before diving into the First Steps Guide.
-> **Note for Experienced GitHub Users**: This guide is aimed at beginners using the GitHub web UI. If you are familiar with other methods of using GitHub, please proceed in a way that's best for you.
-
-
 # 🌐 Light-Node-Network
 
 Welcome to the **Light Node Network (LNN)**, a crucial part of the *My First Bitcoin* initiative. This repository serves as a dynamic and collaborative platform for all our Light Nodes around the world, providing essential tools and information for successful operation.
@@ -19,6 +11,11 @@ The **Light-Node-Network** repository is dedicated to:
 
 ## 🚀 Getting Started
 
+To begin your journey with the Light Node Network, please follow our [First Steps Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/LLN_FIRST_STEPS.md). This guide includes detailed instructions on accessing the repository, finding your Light Node directory, and customizing your README file using the template provided.
+
+If you are new to GitHub, we recommend starting with our [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md) before diving into the First Steps Guide.
+> **Note for Experienced GitHub Users**: This guide is aimed at beginners using the GitHub web UI. If you are familiar with other methods of using GitHub, please proceed in a way that's best for you.
+> 
 ### 1. **Locate Your Node's Directory**
 Navigate to your Light Node's specific directory within this repository. If you're new to GitHub or need guidance on using the GitHub web UI, please refer to our detailed [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md).
 
