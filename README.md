@@ -1,8 +1,9 @@
 ## 🚀 Getting Started
 
-To begin your journey with the Light Node Network, please follow our [First Steps Guide](link-to-LLN_FIRST_STEPS.md). This guide includes detailed instructions on accessing the repository, finding your Light Node directory, and customizing your README file using the template provided.
+To begin your journey with the Light Node Network, please follow our [First Steps Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/LLN_FIRST_STEPS.md). This guide includes detailed instructions on accessing the repository, finding your Light Node directory, and customizing your README file using the template provided.
 
 If you are new to GitHub, we recommend starting with our [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md) before diving into the First Steps Guide.
+> **Note for Experienced GitHub Users**: This guide is aimed at beginners using the GitHub web UI. If you are familiar with other methods of using GitHub, please proceed in a way that's best for you.
 
 
 # 🌐 Light-Node-Network
@@ -19,10 +20,10 @@ The **Light-Node-Network** repository is dedicated to:
 ## 🚀 Getting Started
 
 ### 1. **Locate Your Node's Directory**
-Navigate to your Light Node's specific directory within this repository. If you're new to GitHub or need guidance on using the GitHub web UI, please refer to our detailed [Getting Started Guide](link-to-getting-started-guide).
+Navigate to your Light Node's specific directory within this repository. If you're new to GitHub or need guidance on using the GitHub web UI, please refer to our detailed [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md).
 
 ### 2. **Personalize Your Node's README**
-Customize the README file in your directory with your Node's information. For step-by-step instructions using the GitHub web interface, see our [README Customization Guide](link-to-readme-customization-guide).
+Customize the README file in your directory with your Node's information. For step-by-step instructions using the GitHub web interface, see our [README Customization Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/README_CUSTOMIZATION_GUIDE.md).
 
 ### 3. **Engage in Discussions**
 Familiarize yourself with and actively participate in the [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions). This is a great place to connect with other Light Nodes, share experiences, seek advice, engage the public, and collaborate on initiatives.
