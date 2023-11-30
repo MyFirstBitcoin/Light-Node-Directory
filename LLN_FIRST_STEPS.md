@@ -1,6 +1,6 @@
 # 🚀 First Steps in the Light Node Network
 
-Welcome to the Light Node Network (LNN)! This guide is designed to help you navigate the initial steps of becoming an active member of our network on GitHub.
+This guide is designed to help you navigate the initial steps of becoming an active member of our network on GitHub.
 
 ## 📌 Introduction
 
