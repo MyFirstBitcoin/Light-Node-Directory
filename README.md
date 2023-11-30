@@ -1,4 +1,4 @@
-# 🌐 Light-Node-Network
+# 🌐 Light-Node-Directory
 
 Welcome to the **Light Node Network (LNN)**, an integral part of the *My First Bitcoin* initiative. This repository is a dynamic and collaborative platform for Light Nodes worldwide, offering tools and information for successful operation.
 
