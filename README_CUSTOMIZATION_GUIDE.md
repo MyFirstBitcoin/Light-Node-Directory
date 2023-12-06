@@ -45,7 +45,7 @@ If you need to reset your README file to its original template, you can use the 
 
 ## ❓ Need Help?
 
-If you have any difficulties or questions, please ask in our [Discussions forum](https://github.com/orgs/MyFirstBitcoin/discussions) or consult the `SUPPORT_AND_RESOURCES.md` file for more assistance.
+If you have any difficulties or questions, please ask in our [Discussions forum](https://github.com/orgs/MyFirstBitcoin/discussions)
 
 Your Light Node's README is now a personalized and informative page about your activities and achievements in the Light Node Network!
 
