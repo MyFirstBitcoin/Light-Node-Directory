@@ -32,6 +32,6 @@ After setting up your directory and customizing your README, there are several w
 
 ## 🆘 Need Help?
 
-For additional guidance or if you encounter any issues, please consult the `SUPPORT_AND_RESOURCES.md` file in the repository. You can also ask questions and seek assistance in our [Discussions forum](https://github.com/orgs/MyFirstBitcoin/discussions).
+For additional guidance or if you encounter any issues, you can ask questions and seek assistance in our [Discussions forum](https://github.com/orgs/MyFirstBitcoin/discussions).
 
 We're excited to have you in the Light Node Network and look forward to your contributions and growth!
