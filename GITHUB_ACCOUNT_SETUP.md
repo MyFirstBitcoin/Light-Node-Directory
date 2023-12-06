@@ -21,6 +21,6 @@ Welcome to the Light Node Network! If you're new to GitHub, this guide will walk
 
 ## 🔄 Returning to the Light Node Network
 
-Now that your GitHub account is set up, you're ready to dive into the Light Node Network. Please return to the [Getting Started Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/LLN_FIRST_STEPS.md) to continue your journey with us.
+Now that your GitHub account is set up, you're ready to dive into the Light Node Network. Please return to the [First Steps Guide](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/LLN_FIRST_STEPS.md) to continue your journey with us.
 
 Welcome aboard! We're thrilled to have you in the Light Node Network and look forward to your contributions.
