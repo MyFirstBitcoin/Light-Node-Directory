@@ -13,7 +13,7 @@ The **Light-Node-Network** repository facilitates:
 
 Whether you're new to GitHub or an experienced user, our [First Steps Guide](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/LLN_FIRST_STEPS.md) is the best place to start. It includes detailed instructions on accessing the repository, finding your Light Node directory, and personalizing your README file.
 
-- **New to GitHub?** Begin with the [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/GITHUB_ACCOUNT_SETUP.md) for a walkthrough on creating your account.
+- **New to GitHub?** Begin with the [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/GITHUB_ACCOUNT_SETUP.md) for a walkthrough on creating your account.
 
 ## 🔗 Quick Links
 
@@ -22,6 +22,6 @@ Whether you're new to GitHub or an experienced user, our [First Steps Guide](htt
 
 ## 📚 Support and Assistance
 
-Need help or have questions? The `SUPPORT_AND_RESOURCES.md` file offers support options, and our [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions) is available for community assistance.
+Need help or have questions? Our [Discussions Forum](https://github.com/orgs/MyFirstBitcoin/discussions) is available for community assistance.
 
 *We are excited to have you in the Light Node Network. Your participation is key to spreading Bitcoin education worldwide!*
