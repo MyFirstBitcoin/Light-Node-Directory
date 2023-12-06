@@ -4,13 +4,13 @@ This guide is designed to help you navigate the initial steps of becoming an act
 
 ## 📌 Introduction
 
-As a member of the LNN, you have a unique role in our collaborative effort to spread Bitcoin education. This guide will help you set up your Light Node's presence in the [Light-Node-Network repository](https://github.com/MyFirstBitcoin/Light-Node-Network).
+As a member of the LNN, you have a unique role in our collaborative effort to spread Bitcoin education. This guide will help you set up your Light Node's presence in the [Light-Node-Directory repository](https://github.com/MyFirstBitcoin/Light-Node-Directory).
 
 > **Note**: If you are new to GitHub, please begin with our [GitHub Account Setup Guide](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/GITHUB_ACCOUNT_SETUP.md) before proceeding with these steps.
 
 ## 🔗 Step 1: Accessing the Light-Node-Network Repository
 
-Start by navigating to the [Light-Node-Network repository](https://github.com/MyFirstBitcoin/Light-Node-Network). Spend some time exploring the repository to understand its structure and contents.
+Start by navigating to the [Light-Node-Directory repository](https://github.com/MyFirstBitcoin/Light-Node-Directory). Spend some time exploring the repository to understand its structure and contents.
 
 ## 📂 Step 2: Locate Your Light Node Directory
 
