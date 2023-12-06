@@ -18,7 +18,7 @@ Each Light Node has a dedicated directory within the repository, named after its
 
 ## 📝 Step 3: Customize Your README File
 
-Your first task is to personalize the README file in your directory. Follow our [README Customization Guide](https://github.com/MyFirstBitcoin/Light-Node-Network/blob/main/README_CUSTOMIZATION_GUIDE.md) for detailed instructions on how to edit this file using the provided template.
+Your first task is to personalize the README file in your directory. Follow our [README Customization Guide](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/README_CUSTOMIZATION_GUIDE.md) for detailed instructions on how to edit this file using the provided template.
 
 ## 🌐 Step 4: Engage with the Network
 
