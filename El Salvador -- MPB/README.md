@@ -10,7 +10,7 @@ Mi Primer Bitcoin - El Salvador was the first node of the network. We strive to 
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/MPB%20Core%20Team.jpg?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** [Insert List of Graduation Dates Here]
