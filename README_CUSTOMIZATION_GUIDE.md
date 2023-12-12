@@ -2,14 +2,17 @@
 
 Each Light Node has a `README.md` file in its directory with a pre-filled template. This guide will help you customize this README to showcase your Light Node's unique information.
 
-## Step 1: Accessing Your README File
+## Step 1: Copy the README Template File
+
+1. **Locate and Open the Template File**: Navigate to the [README_TEMPLATE.md](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/README_TEMPLATE.md) in our repository.
+3. **Copy the Template**: Switch from preview to code view. Select all the content and copy it to your clipboard. 
+
+## Step 2: Accessing Your README File
 
 1. **Navigate to Your Directory**: Locate your Light Node's directory in the [Light-Node-Directory repository](https://github.com/MyFirstBitcoin/Light-Node-Directory).
 2. **Open the README File**: Click on the `README.md` file to view it.
-
-## Step 2: Enter Edit Mode
-
-1. **Edit the README**: Click the pencil icon (Edit this file) at the top right of the file view.
+3. **Edit the README**: Click the pencil icon (Edit this file) at the top right of the file view.
+4. **Paste in Your README**: Go to your README file, enter edit mode, and replace the existing content with the copied template.
 
 ## Step 3: Customize the Template
 
