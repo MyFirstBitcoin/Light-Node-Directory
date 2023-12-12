@@ -5,7 +5,7 @@ Welcome to the **Light Node Network (LNN)**, an integral part of the *My First B
 ## 🎯 Purpose
 
 The **Light-Node-Network** repository facilitates:
-- **Personalized Directories**: Each Light Node has its own directory for storing customized content and resources.
+- **Personalized Directories**: Each Light Node has its own directory for storing customized content, resources, and sharing open-source materials.
 - **Centralized Resources**: A hub for distributing updates, educational materials, and essential templates.
 - **Collaborative Communication**: A space for Light Nodes to interact and share insights effectively.
 
