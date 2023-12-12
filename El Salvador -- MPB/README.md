@@ -1,5 +1,5 @@
 # 🏷️ Mi Primer Bitcoin - El Salvador
-<img src="[https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/Logo%20MPB%20Assets-3.png)" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="[[https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/Logo%20MPB%20Assets-3.png)](https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/El%20Salvador%20--%20MPB/Logo%20MPB%20Assets-3.png?raw=true)" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** El Salvador
