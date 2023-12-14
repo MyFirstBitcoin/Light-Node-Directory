@@ -6,16 +6,16 @@
 - **City:** Nairobi
 
 ## 📖 About Us
-[The Core is a dedicated platform passionate about Bitcoin. Our core values are centered around promoting Bitcoin awareness and understanding, and we do this through various educational and creative means: Free Bitcoin Education, Content creation, Entertainment, and quotes .
-]
+The Core is a dedicated platform passionate about Bitcoin. Our core values are centered around promoting Bitcoin awareness and understanding, and we do this through various educational and creative means: Free Bitcoin Education, Content creation, Entertainment, and quotes .
+
 
 ## 👥 Our Team
-[Felix Mukungu (Kenyan): Founder and Lead Educator at The Core.
+Felix Mukungu (Kenyan): Founder and Lead Educator at The Core.
 Maureen Lowoton(Kenyan): Co-founder and integral contributor to The Core.
 Angella (Ugandan): Co-host and Educator at The Core.
 Finlay Joash (Kenyan): Graphics Designer responsible for our social media presence.
 Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's essence.
-]
+
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
