@@ -29,6 +29,7 @@ Participation is key to the success of our network. Engage with other members by
 After setting up your directory and customizing your README, there are several ways to continue contributing to the LNN:
 - Keep your directory and README file updated with your latest activities and information.
 - Regularly check the repository for new resources, updates, and discussions.
+- Upload custome open-source materials to your directory that you would like to share with the community. 
 
 ## 🆘 Need Help?
 
