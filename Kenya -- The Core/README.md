@@ -1,5 +1,5 @@
 # 🏷️ The Core
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/6adca1ba1b689c7c1fe5ede51b7f850e12e0f19b/Kenya%20--%20The%20Core/The%20Core.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Kenya
