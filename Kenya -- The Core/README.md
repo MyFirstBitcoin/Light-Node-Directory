@@ -16,7 +16,7 @@ Angella (Ugandan): Co-host and Educator at The Core.
 Finlay Joash (Kenyan): Graphics Designer responsible for our social media presence.
 Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's essence.
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Kenya%20--%20The%20Core/The%20Core.png?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** 07/12/2023
