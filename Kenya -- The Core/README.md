@@ -21,11 +21,9 @@ Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's 
 ## 🎓 Graduations
 - **Dates of Graduations:** 07/12/2023
 - **Number of Students Graduated:** I6
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/grad_placeholder.png" width="500" alt="Picture from a Graduation"> <!-- 1 picture maximum -->
 
 ## 🏆 Recent Achievements
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/achieve_placeholder.png" width="500" alt="Pictures of Achievements"> <!-- 1 picture maximum -->
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
