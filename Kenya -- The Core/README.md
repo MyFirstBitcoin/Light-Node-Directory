@@ -32,7 +32,7 @@ Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's 
 ###  Successfully Joining My First Bitcoin as a Light Node:
 We successfully collaborated with my first Bitcoin and joined the Light Node network, getting our first cohort in October-November under the Bitcoin Diploma program.
 
-##First Graduation Under Bitcoin Diploma Curriculum and 3rd Overall for the Bitcoin Diploma:
+## First Graduation Under Bitcoin Diploma Curriculum and 3rd Overall for the Bitcoin Diploma:
 
 We have successfully graduated 16 out of 64 who enrolled for October-November 2023. Nine students are from Kenya, three from Tanzania, one from Uganda, one from Canada, one from India, and one from the UK.
 
