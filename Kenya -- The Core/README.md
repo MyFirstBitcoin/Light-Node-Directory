@@ -45,7 +45,7 @@ With the help of the Myfirst Bitcoin team, we managed to set up a Google Classro
 
 We applied for the Geyser grant for Bitcoin education and are glad to have received a grant of $153 on September 20, 2023. This marks our first successful grant application.
 
-##Website Going Online:
+### Website Going Online:
 We have successfully set up our website online, and it is still under development. The next cohort will enroll through the website.
 https://thecore.africa/
 
