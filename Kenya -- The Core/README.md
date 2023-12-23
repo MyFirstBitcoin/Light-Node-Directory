@@ -14,11 +14,15 @@ Felix Mukungu (Kenyan): Founder and Lead Educator at The Core.
 
 Maureen Lowoton(Kenyan): Co-founder and integral contributor to The Core.
 
+Jeph Mukiza (Uganda): Accounting
+
 Grant Gombwa (Malawi): Project Manager.
 
 Angella (Ugandan): Co-host and Educator at The Core.
 
 Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's essence.
+
+Christopher Mawaniki (Kenyan): IT/Technical Depertement
 
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/46fa572b4d8450cffd99833002bc070b4695ed25/Kenya%20--%20The%20Core/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
