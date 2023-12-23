@@ -42,14 +42,14 @@ We have successfully graduated 16 out of 64 who enrolled for October-November 20
 
 https://x.com/thecore21m/status/1732808409408217302?s=20
 
-### Google Classroom Setup:
+### 💻 Google Classroom Setup:
 With the help of the Myfirst Bitcoin team, we managed to set up a Google Classroom, which is very convenient for our Bitcoin Diploma education. We were previously using ordinary Google Meet, which was a bit manual for the entire education process.
 
-### First Grant by Geyser on 20th Sep 2023:
+### 💰 First Grant by Geyser on 20th Sep 2023:
 
 We applied for the Geyser grant for Bitcoin education and are glad to have received a grant of $153 on September 20, 2023. This marks our first successful grant application.
 
-### Website Going Online:
+### 🌐 Website Going Online:
 We have successfully set up our website online, and it is still under development. The next cohort will enroll through the website.
 https://thecore.africa/
 
