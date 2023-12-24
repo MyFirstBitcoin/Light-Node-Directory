@@ -10,7 +10,7 @@
 Working to provide and reward young people with Bitcoin information & educational resources through explorative activities, physical training, competitive tournaments & fun events. DYOR (training), FUD busting (self-belief) & Proof Of Work (performance & personal responsibility
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+Bitcoin Ballers' participants & players
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20Kingdom%20--%20Bitcoin%20Ballers%20Academy/2022-11-4%20-%20Bitcoin%20Ballers%20Academy%20-%20Banner%20for%20Geyser%20project.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
