@@ -1,6 +1,6 @@
 
 # 🏷️ Bitcoin Ballers Academy
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20Kingdom%20--%20Bitcoin%20Ballers%20Academy/Slide5.PNG" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** United Kingdom
