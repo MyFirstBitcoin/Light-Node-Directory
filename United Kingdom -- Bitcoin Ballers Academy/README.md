@@ -14,7 +14,7 @@ Bitcoin Ballers' participants & players
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20Kingdom%20--%20Bitcoin%20Ballers%20Academy/2022-11-4%20-%20Bitcoin%20Ballers%20Academy%20-%20Banner%20for%20Geyser%20project.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
+- **Dates of Graduations:** First graduation expected on 21st April 2024
 - **Number of Students Graduated:** [Insert Total Number of Students Here]
 
 ## 🏆 Recent Achievements
