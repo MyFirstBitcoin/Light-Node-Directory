@@ -1,5 +1,5 @@
 # 🏷️ OPERATION BITCOIN
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Operation%20Bitcoin/OpBitLogoRound.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** United States
