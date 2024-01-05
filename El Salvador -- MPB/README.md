@@ -21,13 +21,13 @@ Last 4 graduations:
 - **Number of Students Graduated:** Total: 295 students graduated
 
 ## 🏆 Recent Achievements
--
+- Partnership with El Salvador's Ministry of Education to teach the Bitcoin Diploma in the public school system.
+- Development of an unstoppable decentralized education network: the Node Network. 
+
 ## 📞 Contact Information
 - **Website:** www.miprimerbitcoin.io
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Email:** info@miprimerbitcoin.io
+- **Telegram:** https://t.me/+ioC0eZWxeYo0NDRh
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through our Geyser page: https://geyser.fund/project/miprimerbitcoin
