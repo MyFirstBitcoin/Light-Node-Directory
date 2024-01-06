@@ -1,4 +1,4 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ ₿itcoin Grove
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bitcoin%20Grove/Bitcoin%20Grove%20Logo.jpg" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
