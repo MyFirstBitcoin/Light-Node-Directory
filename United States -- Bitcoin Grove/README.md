@@ -23,7 +23,7 @@
 - **Website:** [Insert Website URL Here]
 - **Email:** [Insert Email Address Here]
 - **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [https://t.me/btcgrove]
+- **Telegram:** https://t.me/btcgrove
 - **Phone:** [Insert Phone Number Here]
 
 ## 💰 Official Donation Link
