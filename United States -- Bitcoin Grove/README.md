@@ -2,8 +2,8 @@
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bitcoin%20Grove/Bitcoin%20Grove%20Logo.jpg" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [United States]
-- **City:** [Miami]
+- **Country:** United States
+- **City:** Miami
 
 ## 📖 About Us
 [Insert a brief description of your Light Node, its mission, vision, and activities here]
