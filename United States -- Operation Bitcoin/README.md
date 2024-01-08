@@ -5,7 +5,7 @@
 - **Country:** United States
 
 ## 📖 About Us
-Introduce, educate, equip, and motivate military veterans to help lead the world into the Bitcoin Epoch.
+Our mission is to introduce, educate, equip, and motivate military veterans to help lead the world into the Bitcoin future.
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
