@@ -23,7 +23,7 @@ Currently, our team is small—a cozy group of four educators: Jaime, Leander, D
   <li>December 2023: Proposal to Regina Public Library to offer free MPB classes to the community</li>
   <li>January 2024: Awarded First Full Node Status outside El Salvador</li>
   <li>May 2024: Workshop and MPB Presentation at Canadian Bitcoin Conference 2024</li>
-</ul
+</ul>
 
 ## 📞 Contact Information
 - **Website:** TBA soon
@@ -33,4 +33,4 @@ Currently, our team is small—a cozy group of four educators: Jaime, Leander, D
 - **Phone:** TBA
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through https://geyser.fund/project/myfirstbitcoincanada.
