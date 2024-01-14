@@ -28,7 +28,7 @@ Currently, our team is small—a cozy group of four educators: Jaime, Leander, D
 
 ## 📞 Contact Information
 - **Website:** TBA soon
-- **Email:** TBA soon, DM <a href="https://twitter.com/JaimeWGarcia>@JaimeWGarcia</a> on Twitter/X for now
+- **Email:** TBA soon, DM <a href="https://twitter.com/JaimeWGarcia">@JaimeWGarcia</a> on Twitter/X for now
 - **WhatsApp:** TBA soon
 - **Telegram:** TBA soon
 - **Phone:** TBA soon
