@@ -1,5 +1,6 @@
 # 🏷️ My First Bitcoin Canada / Mon Premier Bitcoin Canada / Mi Primer Bitcoin Canada
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/156359412/1e11292c-5a2d-4428-8548-dd906116f51a" width="300" alt="Logo or Picture of the Node">
+<!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Canada
@@ -11,7 +12,8 @@ Our mission is to educate Canadians on Bitcoin. We are small but growing, and ou
 ## 👥 Our Team
 Currently, our team is small—a cozy group of four educators: Jaime, Leander, Dale, and Tylor. We are based in Regina, Saskatchewan, and we are expanding and growing our educators' team from coast-to-coast-to-coast across the Great White North. We are growing daily with inquiries from educators from Vancouver, Calgary, Toronto, and Montreal, and we are excited to onboard new educators and students to Bitcoin, the most revolutionary invention of our time.
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/156359412/41258c93-abb4-4fcd-9075-72e32bf63769" width="500" alt="Team Picture">
+ <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** June 13, 2023
