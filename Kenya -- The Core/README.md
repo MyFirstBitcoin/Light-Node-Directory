@@ -31,6 +31,12 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 - **Dates of Graduations:** 07/12/2023
 - **Number of Students Graduated:** I6
 
+## 📢 Announcements
+We will have our twitter space on 18th Jan 2024, to introduce the Bitcoin Diploma to the Jan - March Cohort
+schedule the space through the link below 
+https://x.com/thecore21m/status/1747239976461295691?s=20
+
+
 ## 🏆 Recent Achievements 2023
 
 ###  Successfully Joining My First Bitcoin as a Light Node:
