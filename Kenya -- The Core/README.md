@@ -57,7 +57,10 @@ https://twitter.com/thecore21m/status/1703476485351256320?t=Hp8ieCTSuBq3jGs2IO_o
 We have successfully set up our website online, and it is still under development. The next cohort will enroll through the website.
 https://thecore.africa/
 
-## 🏆 Recent Achievements 2023
+## 🏆 Recent Achievements 2024
+
+
+
 
 
 ## 📞 Contact Information
