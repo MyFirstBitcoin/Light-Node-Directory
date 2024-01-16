@@ -49,7 +49,7 @@ With the help of the Myfirst Bitcoin team, we managed to set up a Google Classro
 
 We applied for the Geyser grant for Bitcoin education and are glad to have received a grant of $153 on September 20, 2023. This marks our first successful grant application.
 
-### 💰 First Grant by Geyser on 20th Sep 2023:
+### First Physical Meetup
 After receiving the grant, it helped us budget for our first physical meetup in the capital of Kenya, Nairobi
 https://twitter.com/thecore21m/status/1703476485351256320?t=Hp8ieCTSuBq3jGs2IO_oqA&s=19
 
