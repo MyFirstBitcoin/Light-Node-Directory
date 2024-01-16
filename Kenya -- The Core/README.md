@@ -31,7 +31,7 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 - **Dates of Graduations:** 07/12/2023
 - **Number of Students Graduated:** I6
 
-## 🏆 Recent Achievements
+## 🏆 Recent Achievements 2023
 
 ###  Successfully Joining My First Bitcoin as a Light Node:
 We successfully collaborated with my first Bitcoin and joined the Light Node network, getting our first cohort in October-November under the Bitcoin Diploma program.
@@ -49,9 +49,16 @@ With the help of the Myfirst Bitcoin team, we managed to set up a Google Classro
 
 We applied for the Geyser grant for Bitcoin education and are glad to have received a grant of $153 on September 20, 2023. This marks our first successful grant application.
 
+### 💰 First Grant by Geyser on 20th Sep 2023:
+After receiving the grant, it helped us budget for our first physical meetup in the capital of Kenya, Nairobi
+https://twitter.com/thecore21m/status/1703476485351256320?t=Hp8ieCTSuBq3jGs2IO_oqA&s=19
+
 ### 🌐 Website Going Online:
 We have successfully set up our website online, and it is still under development. The next cohort will enroll through the website.
 https://thecore.africa/
+
+## 🏆 Recent Achievements 2023
+
 
 ## 📞 Contact Information
 - **Website:** https://thecore.africa/
