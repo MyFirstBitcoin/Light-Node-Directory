@@ -34,7 +34,10 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 ## 📢 Announcements
 We will have our twitter space on 18th Jan 2024, to introduce the Bitcoin Diploma to the Jan - March Cohort
 schedule the space through the link below 
+
 https://x.com/thecore21m/status/1747239976461295691?s=20
+
+## 🏆 Recent Achievements 2024
 
 
 ## 🏆 Recent Achievements 2023
@@ -62,11 +65,6 @@ https://twitter.com/thecore21m/status/1703476485351256320?t=Hp8ieCTSuBq3jGs2IO_o
 ### 🌐 Website Going Online:
 We have successfully set up our website online, and it is still under development. The next cohort will enroll through the website.
 https://thecore.africa/
-
-## 🏆 Recent Achievements 2024
-
-
-
 
 
 ## 📞 Contact Information
