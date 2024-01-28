@@ -8,12 +8,12 @@
 ## 📖 About Us
 The Core is a dedicated platform passionate about Bitcoin. Our core values are centered around promoting Bitcoin awareness and understanding, and we do this through various educational and creative means: Free Bitcoin Education, Content creation, Entertainment, and quotes .
 
-##MISSION
+## MISSION
 To raise Bitcoin awareness through education, entertainment, and engaging content, 
 empowering individuals by nurturing self-taught skills, and enabling them to harness 
 the power of Bitcoin for personal growth.
 
-##VISION
+## VISION
 To reshape the narrative around Bitcoin, positioning it as a force for good. By connecting 
 individuals who join and graduate from The Core within the same country in Africa, we aim 
 to build thriving communities that nurture an understanding of Bitcoin's significant potential,
@@ -42,6 +42,7 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
 https://x.com/thecore21m/status/1750405640735064443?s=20
+
 https://x.com/thecore21m/status/1749896300764512685?s=20
 
 ### Engaging Content: 
@@ -50,9 +51,13 @@ This content includes quotes, quizzes, memes, and short educational videos, desi
 the interest of a diverse audience.
 
 https://www.instagram.com/p/C2mqh3cM4Hw/?igsh=MWNmeXdmNnhhb2F0bg==
+
 https://www.instagram.com/p/C2mqh3cM4Hw/?igsh=MWNmeXdmNnhhb2F0bg==
+
 https://www.instagram.com/reel/C2Fs4cnsLDy/?igsh=MTc1dXdoZnppdGxocQ==
+
 https://www.instagram.com/p/C0_CBc4MRZ3/?igsh=MWdlbHc5amFnM2Y2Ng==
+
 https://www.instagram.com/p/C037aiZMMuH/?igsh=MWFuNHFiaWgwY3V5NA==
 
 ### Community Building:
