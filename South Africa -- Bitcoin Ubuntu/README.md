@@ -9,7 +9,8 @@
 Bitcoin-only education and outreach initiative, Swellendam, South Africa.
 
 ## 👥 Our Team
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/glennjooste.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/glennjooste.jpg" width="300" alt="Team Picture"> <!-- 1 picture maximum -->
+
 Glenn Jooste
 
 ## 🎓 Graduations
