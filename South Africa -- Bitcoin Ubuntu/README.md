@@ -19,6 +19,7 @@ Glenn Jooste
 
 ## 🏆 Recent Achievements
 - Contributor to The Core's online presentation of My First Bitcoin's diploma course.
+- Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
 
 ## 📞 Contact Information
 - **Website:** https://bitcoinubuntu.org
