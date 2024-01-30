@@ -24,8 +24,7 @@ Glenn Jooste
 - **Website:** https://bitcoinubuntu.org
 - **Email:** admin@bitcoinubuntu.org
 - **WhatsApp:** +27 71 338 9109
-- **Telegram:** BitcoinUbuntu
-- **Twitter:** BitcoinUbuntu
+- **Twitter/Telegram:** BitcoinUbuntu
 - **Phone:** +27 71 338 9109
 
 ## 💰 Official Donation Link
