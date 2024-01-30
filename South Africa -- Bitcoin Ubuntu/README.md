@@ -28,4 +28,4 @@ Glenn Jooste
 - **Phone:** +27 71 338 9109
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating to our lightning address: bitcoinubuntu@blink.sv
