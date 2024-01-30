@@ -13,10 +13,6 @@ Glenn Jooste
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/glennjooste.jpg" width="300" alt="Team Picture"> <!-- 1 picture maximum -->
 
-## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
-
 ## 🏆 Recent Achievements
 - Contributor to The Core's online presentation of My First Bitcoin's diploma course.
 - Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
