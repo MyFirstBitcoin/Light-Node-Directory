@@ -41,6 +41,8 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 ### Bitcoin Education: 
 To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
+https://x.com/thecore21m/status/1752398569611395561?s=20
+
 https://x.com/thecore21m/status/1750405640735064443?s=20
 
 https://x.com/thecore21m/status/1749896300764512685?s=20
