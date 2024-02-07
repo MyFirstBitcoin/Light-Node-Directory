@@ -1,6 +1,6 @@
 
 # 🏷️ [Bitcoin Dominicana]
-<img src="https://github.com/CarpeDiemCuba/BitcoinDominicanaPictures/blob/main/diplomado-BTC-DOM-cuadrado-1.png" width="300"> <!-- 1 picture maximum -->
+<img src="https://github.com/CarpeDiemCuba/BitcoinDominicanaPictures/blob/main/bitcoindominicana.jpg" width="300"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Dominican Republic
