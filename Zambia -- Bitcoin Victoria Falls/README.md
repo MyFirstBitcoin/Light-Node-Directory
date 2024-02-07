@@ -20,8 +20,9 @@ We will need funds to pay the teacher, print out the Mi Primer Bitcoin workbooks
 
 ## 👥 Our Team
 Adam Cowperthwait (Founder)
+Humphrey Simwinga (Teacher)
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Zambia%20--%20Bitcoin%20Victoria%20Falls/Adam%20Cowperthwait.jpg?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
-Humphrey Simwinga (Teacher)<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Zambia%20--%20Bitcoin%20Victoria%20Falls/Humphrey%20Simwinga.png?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Zambia%20--%20Bitcoin%20Victoria%20Falls/Humphrey%20Simwinga.png?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** Projected for April 20th, 2024
