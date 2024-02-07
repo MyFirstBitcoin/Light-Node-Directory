@@ -21,10 +21,28 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
 - **Dates of Graduations:** 
   - 28/10/2023
   - 26/12/2023
+  - 23/03/2024 (On Process)
 - **Number of Students Graduated:** Total 40 students graduated
 <img src="https://github.com/CarpeDiemCuba/Cuba-Bitcoin-Images/blob/main/segunda%20graduacion%20cuba.jpeg" width="800" alt="Second Graduation">
 
-## 🏆 Recent AchievementsIn 2023:
+## 🏆 Recent Achievements In 2024:
+
+- We did the 4th in-person meetup was held in Cuba on 28th January, with the presence of a guest from BerlinBitDevs. It was talked about:
+  - MostroP2P for bitcoin p2p without KYC
+  - Resources at http://bitcoindevs.xyz created by Chaincode Labs
+  - The educational experience of My First Bitcoin in Cuba
+  - We discuss the scalability of Bitcoin specifically sidechains like RSK, Liquid and Lightning Network as the most advocated scalability solution in the community
+
+- The 3rd edition of the course began My First Bitcoin in Cuba. For the first time it will be taught in two provinces at the same time: Havana and Sancti Spíritus. 20 students were registered in Havana and 10 students in Sancti Spiritus. The final test will be on March 16. The graduation of this edition will be on March 23. [Criptonoticias](https://www.criptonoticias.com/educacion/cuba-bitcoin-avanza-ensenanza-dinero-libre-lahabana-sanctispiritus/)
+
+- The team of Cuba_Bitcoin won the vote My First Bitcoin to the node with the highest PoW made in 2023. This earned us a prize of 1000 USD in BTC:
+  - [X Cuba_BTC](https://twitter.com/Cuba_BTC/status/1754909166408270208)
+  - [X My First Bitcoin](https://twitter.com/MyfirstBitcoin_/status/1753071793064017998)
+  - [Criptonoticias](https://www.criptonoticias.com/comunidad/cuba-libre-bitcoin-libertad-solidaridad-educacion-donacion/)
+
+- Saturday February 17th we will hold an open class on Lightning Network. We will explain this Bitcoin scalability solution by doing practical activities for a better understanding of it and we will teach how to use the lnp2p telegram bot as a privacy tool that allows us to buy Bitcoin without KYC.
+
+## 🏆 Recent Achievements In 2023:
 
 - We did 5 online meetups in our telegram group
 
