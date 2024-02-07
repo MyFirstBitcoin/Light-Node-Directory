@@ -19,7 +19,7 @@ Glenn Jooste
 
 ## ⛏ Now building
 - Adapting MPB Bitcoin Diploma student workbook for online presentation.
-    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U/">Chapter 3</a>
+    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U/" target="_blank">Chapter 3</a>
     + Chapter 4
     + Work in progress
 - Host of The Orange Sun, Mon-Fri 06h00-08h00 UTC
