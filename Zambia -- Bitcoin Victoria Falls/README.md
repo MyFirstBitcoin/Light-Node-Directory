@@ -19,8 +19,7 @@ Mabvuto and Humphrey also recommended a Bitcoin meetup, which we will host 6 tim
 We will need funds to pay the teacher, print out the Mi Primer Bitcoin workbooks, have light refreshments for the graduation ceremony, host F&B for the Bitcoin meetups, and have miscellaneous funds for teaching the learners to download lightning apps and run activities. During their time each week in Livingstone, Mabvuto and Humphrey hope to onboard merchants as well.
 
 ## 👥 Our Team
-Adam Cowperthwait (Founder)
-Humphrey Simwinga (Teacher)
+Humphrey Simwinga (Teacher) Adam Cowperthwait (Founder)
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Zambia%20--%20Bitcoin%20Victoria%20Falls/Adam%20Cowperthwait.jpg?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Zambia%20--%20Bitcoin%20Victoria%20Falls/Humphrey%20Simwinga.png?raw=true" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
