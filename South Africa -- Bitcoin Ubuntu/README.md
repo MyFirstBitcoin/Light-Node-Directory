@@ -11,7 +11,7 @@ Bitcoin-only education and outreach initiative, Swellendam, South Africa.
 ## 👥 Our Team
 Glenn Jooste
 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/glennjooste.jpg" width="300" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/glenn.jpg" width="300" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🏆 Recent Achievements
 - Contributor to The Core's online presentation of My First Bitcoin's diploma course.
