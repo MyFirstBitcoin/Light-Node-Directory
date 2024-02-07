@@ -17,6 +17,13 @@ Glenn Jooste
 - Contributor to The Core's online presentation of My First Bitcoin's diploma course.
 - Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
 
+## ⛏ Now building
+- Adapting MPB Bitcoin Diploma student workbook for online presentation.
+    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U/">Chapter 3</a>
+    + Chapter 4
+    + Work in progress
+- Host of The Orange Sun, Mon-Fri 06h00-08h00 UTC
+
 ## 📞 Contact Information
 - **Website:** https://bitcoinubuntu.org
 - **Email:** admin@bitcoinubuntu.org
