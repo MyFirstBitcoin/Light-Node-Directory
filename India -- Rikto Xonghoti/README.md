@@ -13,7 +13,7 @@ Rikto Xonghoti (ৰিক্ত সংহতি) is a project that aims to provi
 
 <p align="center">
   <a href="https://twitter.com/anuragsaikia" target="_blank">
-    <img src="./assets/anuragsaikia-avatar.jpg" alt="Anurag Saikia's Twitter profile picture" style="width: 30%; border-radius: 50%;"/>
+    <img src="./assets/anuragsaikia-avatar.png" alt="Anurag Saikia's Twitter profile picture" style="width: 30%;"/>
   <a href="https://twitter.com/Basanta_Goswami" target="_blank">
     <img src="./assets/basantagoswami-avatar.png" alt="Basanta Goswami's profile picture" style="width: 30%; margin: 0 1.5%;"/>
   </a>
