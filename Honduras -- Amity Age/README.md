@@ -1,5 +1,5 @@
 # 🏷️ AmityAge Academy
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src=https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Honduras%20--%20Amity%20Age/amityy.PNG> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Honduras
