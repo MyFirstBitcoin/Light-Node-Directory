@@ -12,7 +12,7 @@ AmityAge Academy has emerged as a leader in Bitcoin education on the island, our
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src=https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Honduras%20--%20Amity%20Age/WhatsApp%20Image%202024-02-09%20at%2014.54.37.jpeg> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** 05/13/23, 07/02/23, 09/01/23, 11/22/23
