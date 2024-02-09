@@ -11,7 +11,6 @@ AmityAge Academy, co-founded by Dusan Matuska, is leading the Bitcoin movement i
 AmityAge Academy has emerged as a leader in Bitcoin education on the island, our academy is pioneering the way towards a future where financial empowerment and freedom are accessible to all. We all are committed to expanding our impact globally, aspiring to establish a network of Bitcoin Educators across the world. 
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
 <img src=https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Honduras%20--%20Amity%20Age/WhatsApp%20Image%202024-02-09%20at%2014.54.37.jpeg> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
