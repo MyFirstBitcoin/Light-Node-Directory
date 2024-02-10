@@ -14,8 +14,8 @@ Bitcoin Grove has a growing team of Bitcoin educators, developers, and business 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** First graduation expected before June 30, 2024
+- **Number of Students Graduated:** First graduating class expected to by 12-15 students
 
 ## 🏆 Recent Achievements
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
