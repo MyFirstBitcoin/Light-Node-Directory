@@ -6,7 +6,7 @@
 - **City:** Miami
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Bitcoin Grove is a Bitcoin only workspace that seeks to serves as a hub for independent bitcoin-focused efforts in the greater community, serve as a resource to strengthen those efforts, and ultimately become the catalyst for new ideas and discussions that help to educate the greater Miami area about Bitcoin and its benefits.
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
