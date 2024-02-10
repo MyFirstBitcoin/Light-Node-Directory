@@ -9,7 +9,8 @@
 Bitcoin Grove is a Bitcoin only workspace that seeks to serves as a hub for independent bitcoin-focused efforts in the greater community, serve as a resource to strengthen those efforts, and ultimately become the catalyst for new ideas and discussions that help to educate the greater Miami area about Bitcoin and its benefits.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+Bitcoin Grove has a growing team of Bitcoin educators, developers, and business leaders from all parts of South Florida.  We welcome all Bitcoin focused indivudals and groups to join our team and help us teach the world about Bitcoin.
+
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
