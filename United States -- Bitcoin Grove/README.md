@@ -14,11 +14,16 @@ Bitcoin Grove has a growing team of Bitcoin educators, developers, and business 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** First graduation expected before June 30, 2024
+- **Dates of Graduations:** First graduation expected ~June 30, 2024
 - **Number of Students Graduated:** First graduating class expected to by 12-15 students
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+Organizing Bitcoin Day Miami 2024 (Planned for May 2024)
+Faciliate Monthly Miami BitDevs Meetup
+Facilitate Monthly Bitcoin Source an Miami Bitcoin Design Meetups
+Organized and led Bitcoin 101 Workshop - Decemeber 2023
+Organized and hosted Bitcoin Vortex Miami - October 2023
+Organized Bitcoin Pizza Day 2023 activities - May 2023
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
