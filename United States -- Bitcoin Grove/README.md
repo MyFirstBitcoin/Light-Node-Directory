@@ -15,7 +15,7 @@ Bitcoin Grove has a growing team of Bitcoin educators, developers, and business 
 
 ## 🎓 Graduations
 - **Dates of Graduations:** First graduation expected ~June 30, 2024
-- **Number of Students Graduated:** First graduating class expected to by 12-15 students
+- **Number of Students Graduated:** First graduating class expected to be ~12-15 students
 
 ## 🏆 Recent Achievements
 - Organizing Bitcoin Day Miami 2024 Conference (Planned for May 2024)
