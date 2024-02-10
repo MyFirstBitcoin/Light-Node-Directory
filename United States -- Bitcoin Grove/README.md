@@ -26,6 +26,7 @@ Bitcoin Grove has a growing team of Bitcoin educators, developers, and business 
 - Organized Bitcoin Pizza Day 2023 activities - May 2023
 
 ## 📞 Contact Information
+- **Address:** 8325 NE 2nd Ave, Miami, FL 33138
 - **Website:** [Insert Website URL Here]
 - **Email:** [Insert Email Address Here]
 - **WhatsApp:** [Insert WhatsApp Number Here]
