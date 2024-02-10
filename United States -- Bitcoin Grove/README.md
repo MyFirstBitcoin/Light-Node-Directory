@@ -20,7 +20,7 @@ Bitcoin Grove has a growing team of Bitcoin educators, developers, and business 
 ## 🏆 Recent Achievements
 - Organizing Bitcoin Day Miami 2024 on May 11, 2024 (https://bitcoinday.io/miami24)
 - Faciliate Monthly Miami BitDevs Meetup
-- Facilitate Monthly Bitcoin Source an Miami Bitcoin Design Meetups
+- Facilitate Monthly Bitcoin Source & Miami Bitcoin Design Meetups
 - Organized and led Bitcoin 101 Workshop - Decemeber 2023
 - Organized and hosted Bitcoin Vortex Miami - October 2023
 - Organized Bitcoin Pizza Day 2023 activities - May 2023
