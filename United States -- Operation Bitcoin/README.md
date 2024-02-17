@@ -8,7 +8,7 @@
 Our mission is to introduce, educate, equip, and motivate military veterans to help lead the world into the Bitcoin future.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United States -- Operation Bitcoin/BitcoinNeedsWarriors.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
