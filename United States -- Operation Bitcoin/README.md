@@ -12,11 +12,23 @@ Our mission is to introduce, educate, equip, and motivate military veterans to h
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United States -- Operation Bitcoin/BitcoinNeedsWarriors.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** Coming Q2 2024
+- **Number of Students Graduated:** Coming Q2 2024
 
-## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+## 🏆 Recent Achievements 2023
+**Successfully Joining My First Bitcoin as a Light Node:**
+Joined the Mi Primer Bitcoin network as the first "Thematic Node" focused on military veterans.
+
+**Google Classroom Setup**
+In collaboration with the Mi Primer Bitcoin team, designed and launched the OPERATION BITCOIN google classroom for the purpose of serving distance learners around the world.
+
+**Website Launch**
+Designed and launched OPERATION BITCOIN's website partnering with Dr. Nickamoto
+
+**Geyser Fund Education Grant recipient**
+
+**Content Creation Strategy Launched**
+All sites on Linktree:  https://linktr.ee/operationbitcoin
 
 ## 📞 Contact Information
 - **Website:** https://operationbitcoin.io/
