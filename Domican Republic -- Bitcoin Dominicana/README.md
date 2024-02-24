@@ -21,10 +21,16 @@ We understand that Bitcoin can transform the way transactions are made and how f
 - **Dates of Graduations:** 
 - **Number of Students Graduated:**
 
-## 🏆 Recent AchievementsIn 2023:
+## 🏆 Recent Achievements In 2024:
+
+- On February 24, Bitcoin Dominicana participates as a sponsor of ["Slides and Grinds"](https://x.com/Bitcoin809/status/1760767620020584450) in Cristo Rey, Santo Domingo to promote the sport of skateboarding on the island
+
+- A new alliance is created with the [Cuba Bitcoin](https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Cuba%20--%20Cuba%20Bitcoin) team to promote [teaching about Bitcoin](https://x.com/Bitcoin809/status/1757533986010628308) in the Quisquellana nation
+
+- On January 20, Bitcoin Dominicana participates as a sponsor of ["Slides and Grinds"](https://x.com/Bitcoin809/status/1748316641622962258)
 
 - Our work was recognized in media such as Cointelegraph and Criptonoticias:
-
+  - [Cuba y República Dominicana unen fuerzas para encender la llama de bitcoin en el Caribe](https://www.criptonoticias.com/educacion/cuba-republica-dominicana-llama-bitcoin-caribe-miprimerbitcoin/)
 
 ## 📞 Contact Information
 - **Website:** [https://bitcoindominicana.com/](https://bitcoindominicana.com/)
