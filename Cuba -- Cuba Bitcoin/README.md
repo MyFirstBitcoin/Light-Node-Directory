@@ -27,13 +27,18 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
 
 ## 🏆 Recent Achievements In 2024:
 
+**Meetups:**
 - We did the 4th in-person meetup was held in Cuba on 28th January, with the presence of a guest from BerlinBitDevs. It was talked about:
   - MostroP2P for bitcoin p2p without KYC
   - Resources at http://bitcoindevs.xyz created by Chaincode Labs
   - The educational experience of My First Bitcoin in Cuba
   - We discuss the scalability of Bitcoin specifically sidechains like RSK, Liquid and Lightning Network as the most advocated scalability solution in the community
 
-- The 3rd edition of the course began My First Bitcoin in Cuba. For the first time it will be taught in two provinces at the same time: Havana and Sancti Spíritus. 20 students were registered in Havana and 10 students in Sancti Spiritus. The final test will be on March 16. The graduation of this edition will be on March 23. [Criptonoticias](https://www.criptonoticias.com/educacion/cuba-bitcoin-avanza-ensenanza-dinero-libre-lahabana-sanctispiritus/)
+- We did the [5th in-person meetup](https://x.com/Cuba_BTC/status/1760313131715174617) was held in Cuba on 24th February Saturday, the first Socratic Meetup takes place in Havana, together with a member of Berlin Bit Devs: 
+
+**My First Bitcoin:**
+**The 3rd Edition:**
+- The 3rd Edition of the course began My First Bitcoin in Cuba. For the first time it will be taught in two provinces at the same time: Havana and Sancti Spíritus. 20 students were registered in Havana and 10 students in Sancti Spiritus. The final test will be on March 16. The graduation of this edition will be on March 23. [Criptonoticias](https://www.criptonoticias.com/educacion/cuba-bitcoin-avanza-ensenanza-dinero-libre-lahabana-sanctispiritus/)
 
 - The team of Cuba_Bitcoin won the vote My First Bitcoin to the node with the highest PoW made in 2023. This earned us a prize of 1000 USD in BTC:
   - [X Cuba_BTC](https://twitter.com/Cuba_BTC/status/1754909166408270208)
@@ -41,6 +46,18 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
   - [Criptonoticias](https://www.criptonoticias.com/comunidad/cuba-libre-bitcoin-libertad-solidaridad-educacion-donacion/)
 
 - Saturday February 17th we will hold an open class on Lightning Network. We will explain this Bitcoin scalability solution by doing practical activities for a better understanding of it and we will teach how to use the lnp2p telegram bot as a privacy tool that allows us to buy Bitcoin without KYC.
+
+- **Sessions:**
+  - [Class 1](https://x.com/Cuba_BTC/status/1754192529359032757)
+  - [Class 2](https://twitter.com/Cuba_BTC/status/1756500525002928240)
+  - [Class 3](https://x.com/Cuba_BTC/status/1758994565745230274)
+  - [Class 4]()
+  - [Class 5]()
+
+- **Interviews:**
+  - [Directo 2140](https://www.youtube.com/watch?v=iGzhnfv5Wa8)
+  - [Crox Road](https://www.youtube.com/watch?v=8PByaIncwXE)
+  - [Bitcoinismo | Adrián Bernabéu](https://www.youtube.com/watch?v=AMAqier5ZeQ)
 
 ## 🏆 Recent Achievements In 2023:
 
