@@ -55,9 +55,9 @@ We are a Bitcoin Only community focused on education and debate about Bitcoin on
   - [Class 5]()
 
 **Interviews:**
-  - [Directo 2140](https://www.youtube.com/watch?v=iGzhnfv5Wa8)
-  - [Crox Road](https://www.youtube.com/watch?v=8PByaIncwXE)
-  - [Bitcoinismo | Adrián Bernabéu](https://www.youtube.com/watch?v=AMAqier5ZeQ)
+- [Directo 2140](https://www.youtube.com/watch?v=iGzhnfv5Wa8)
+- [Crox Road](https://www.youtube.com/watch?v=8PByaIncwXE)
+- [Bitcoinismo | Adrián Bernabéu](https://www.youtube.com/watch?v=AMAqier5ZeQ)
 
 ## 🏆 Recent Achievements In 2023:
 
