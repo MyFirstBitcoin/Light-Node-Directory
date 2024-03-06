@@ -41,6 +41,8 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 ### Bitcoin Education: JAN - MARCH COHORT 2024
 To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
+https://x.com/thecore21m/status/1765315772304204013?s=20
+
 https://x.com/thecore21m/status/1763276822005838145?s=20
 
 https://x.com/thecore21m/status/1762944861429248308?s=20
