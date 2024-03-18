@@ -93,6 +93,8 @@ schedule the space through the link below
 https://x.com/thecore21m/status/1747239976461295691?s=20
 
 ## 🏆 Recent Achievements 2024
+We won the MPB second grant for 21% of the total tickets bought for MPB unconferences
+https://x.com/MyfirstBitcoin_/status/1769725730814845345?s=20
 
 ### 💻 Website Going Online
 Our website, which has been in development, recently went online and is still under construction. We aim to have it fully ready by April. Additionally, we're pleased to share that our second group of students is now enrolling through the website.
