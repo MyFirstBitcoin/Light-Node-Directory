@@ -64,6 +64,8 @@ We strive to create engaging and informative content about Bitcoin across our so
 This content includes quotes, quizzes, memes, and short educational videos, designed to capture 
 the interest of a diverse audience.
 
+https://x.com/thecore21m/status/1769707266016461279?s=20
+
 https://www.instagram.com/p/C2mqh3cM4Hw/?igsh=MWNmeXdmNnhhb2F0bg==
 
 https://www.instagram.com/p/C2mqh3cM4Hw/?igsh=MWNmeXdmNnhhb2F0bg==
