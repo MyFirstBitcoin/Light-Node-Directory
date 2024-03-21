@@ -1,5 +1,5 @@
 # 🏷️ BTC Isla by Satoshi's Legacy
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://pbs.twimg.com/media/GIK1jFBWMAAHsCS?format=png&name=small"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Mexico
@@ -52,7 +52,7 @@ I left my fiat job in March of 2023 to go all-in on the Bitcoin standard. In Dec
 Anyway, the point is, being there and watching how Bitcoin was being used as a tool for freedom, while also saving and changing lives, I realized I needed to do the same. That is when I decided to leave Miami and see if I too could create a Bitcoin circular economy and liberate people who are trapped by the corrupt systems we famously know as governments.
 So, in February of 2024, I packed my bags and moved to Isla Mujeres, an island with about 22,000 people.
 
-<img src="https://twitter.com/isabellasg3/photo" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://pbs.twimg.com/media/GH0gN0WXcAAuzjE?format=jpg&name=large" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** August/September 2024
