@@ -84,7 +84,8 @@ https://twitter.com/thecore21m/status/1703476485351256320?t=wOaJlKBUlssOczEg-Glz
 
 ## 🎓 Graduations
 - **Dates of Graduation:** 21/03/2024
-_ ** Number of Students Graduated:** 41
+_ **Number of Students Graduated:** 41
+
 Link: https://x.com/thecore21m/status/1770841419797639570?s=20
 
 Our January to March Cohort commenced on January 23rd and concluded on March 12th, 2024. We held our online graduation ceremony (X space) on March 21st, 2024 https://x.com/thecore21m/status/1770299806608416917?s=20
