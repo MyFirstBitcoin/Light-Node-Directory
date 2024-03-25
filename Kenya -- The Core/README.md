@@ -156,6 +156,7 @@ https://thecore.africa/
 - **Email:** connect@thecore.africa
 - **WhatsApp:** https://chat.whatsapp.com/DAIvPhGXy8cJanTldfqJbH
 - **Telegram:** https://t.me/+rwi-ZrVbZHw0Yzc0
+- **Linktree:** https://linkr.ee/thecore21m
 - **Phone:** +254 741968451
 
 ## 💰 Official Donation Link
