@@ -84,7 +84,7 @@ https://twitter.com/thecore21m/status/1703476485351256320?t=wOaJlKBUlssOczEg-Glz
 
 ## 🎓 Graduations
 
-**BITCOIN DIPLOMA- COHORT 1**
+**BITCOIN DIPLOMA- COHORT 2**
 
 - **Dates of Graduation:** 21/03/2024
 _ **Number of Students Graduated:** 41
