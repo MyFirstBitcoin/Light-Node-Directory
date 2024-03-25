@@ -83,6 +83,15 @@ share ideas, and collaborate on Bitcoin-related topics.
 https://twitter.com/thecore21m/status/1703476485351256320?t=wOaJlKBUlssOczEg-Glzow&s=19
 
 ## 🎓 Graduations
+- **Dates of Graduation:** 21/03/2024
+_ ** Number of Students Graduated:** 41
+Link: https://x.com/thecore21m/status/1770841419797639570?s=20
+
+Our January to March Cohort commenced on January 23rd and concluded on March 12th, 2024. We held our online graduation ceremony (X space) on March 21st, 2024 https://x.com/thecore21m/status/1770299806608416917?s=20
+.We were fortunate to have six tutors for this cohort https://x.com/thecore21m/status/1770299823385718849?s=20 , with each handling two chapters of the #Bitcoin Diploma. Additionally, we were honored to have an amazing guest from Gridless Compute  who came to speak about Bitcoin mining.https://x.com/thecore21m/status/1763089216118853796?s=20.
+we also had one amazing guest to speak about Bitcoin & it's monetary characteristics https://x.com/thecore21m/status/1765409084998606914?s=20. It was truly exciting to witness all 41 graduates coming from 12 different countries https://x.com/thecore21m/status/1770888656762400816?s=20.
+
+
 - **Dates of Graduations:** 07/12/2023
 - **Number of Students Graduated:** I6
 
