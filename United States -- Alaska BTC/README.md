@@ -1,9 +1,9 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ Alaska BTC
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** United States
+- **City:** Juneau, Alaska
 
 ## 📖 About Us
 [Insert a brief description of your Light Node, its mission, vision, and activities here]
