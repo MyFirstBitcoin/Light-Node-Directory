@@ -101,6 +101,12 @@ we also had one amazing guest to speak about Bitcoin & it's monetary characteris
 - **Number of Students Graduated:** I6
 
 ## 📢 Announcements
+
+We are excited to announce the commencement of intake for our 3rd Cohort on the Bitcoin diploma, 
+starting on March 27th, 2024. Official classes will begin on April 23rd, 2024
+
+https://x.com/thecore21m/status/1773005480207536383?s=20
+
 We will have our twitter space on 18th Jan 2024, to introduce the Bitcoin Diploma to the Jan - March Cohort
 schedule the space through the link below 
 
