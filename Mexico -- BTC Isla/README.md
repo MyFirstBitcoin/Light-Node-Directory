@@ -59,12 +59,15 @@ So, in February of 2024, I packed my bags and moved to Isla Mujeres, an island w
 - **Number of Students Graduated:** 5 students signed up (classes will start May/June) 
 
 ## 🏆 Recent Achievements
+👉 The first class will be April 3rd. They will be held every Wednesday 12;00PM - 01;30PM.
+👉 We have 7 students signed up for the first 10-week course
+👉 We found a location to host the classes, they will be hosted in Mayakita a restaurant on the island.
+👉 Created BTC ISLA t-shirts https://fomo21.com/products/btc-isla-bitcoin-t-shirt?_pos=2&_sid=7287fd62f&_ss=r 
 👉 I was able to buy our first white board! "https://video.twimg.com/amplify_video/1768118136266424320/vid/avc1/320x568/2kDhc7co7MJLYFmZ.mp4?tag=14"
 👉 Story how I got approved to Mi Primer Bitcoin and had to go MC in Madeira to show them I was all in: [https://geyser.fund/entry/2947]
 👉 Onboarded the business on the island, Mayakita Restaurant is located in the south point of Isla Mujeres. It is a family-run business with delicious food and ridiculously kind humans. It didn't take long to show the owners why they should accept bitcoin, and it took 7 minutes to teach their team to accept bitcoin.  "https://video.twimg.com/amplify_video/1769762922744459264/vid/avc1/320x568/MPfkVNXQhzXdRSlI.mp4?tag=14"
 👉 After a mini #bitcoin meet up consisting of 3.5 Bitcoiners (I say .5 because one of the guys is a bitcoiner but he doesn’t even know it yet) we managed to onboard a restaurant in Isla Mujeres! One down, many to go 😉 "https://video.twimg.com/amplify_video/1769124349540495360/vid/avc1/320x568/BWv7V_GZEv8ECSTn.mp4?tag=14"
-👉 Getting ready for the Mi Primer Bitcoin classes!! 
-The official date has not been posted, but I am planning to start teaching May or June. Trust me, I want these classes to happen sooner rather than later because I am super excited! But I need to put my eagerness aside and prep for them properly. As of right now, I am working on the slides for the classes and creating their textbooks. 
+
 Here are the first official textbooks of BTC ISLA and the process of making them! As of right now, I made 20 textbooks in Spanish and 5 in English. 
 "https://video.twimg.com/amplify_video/1770214892013780992/vid/avc1/320x568/PdmuED0TGkku-xq3.mp4?tag=14"
 
