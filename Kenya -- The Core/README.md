@@ -28,6 +28,8 @@ Grant Gombwa (Malawi): Project Manager.
 
 Angella (Ugandan): Co-host and Educator at The Core.
 
+Winfred Wambui (Kenyan): Data Management 
+
 Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's essence.
 
 Christopher Mawaniki (Kenyan): IT/Technical Depertement
