@@ -22,8 +22,6 @@ offering accessible resources.
 ## 👥 Our Team
 Felix Mukungu (Kenyan): Founder and Lead Educator at The Core.
 
-Maureen Lowoton(Kenyan): Co-founder and integral contributor to The Core.
-
 Jeph Mukiza (Uganda): Accounting
 
 Grant Gombwa (Malawi): Project Manager.
