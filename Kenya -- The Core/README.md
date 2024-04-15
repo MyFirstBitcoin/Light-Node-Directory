@@ -38,11 +38,12 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/46fa572b4d8450cffd99833002bc070b4695ed25/Kenya%20--%20The%20Core/20230916183527_IMG_3386.JPG.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🥇 OBJECTIVES 
-### BITCOIN EDUCATION
+### ONLINE BITCOIN EDUCATION | BITCOIN DIPLOMA 
+To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
+
 ### APRIL - JUNE COHOT 2024
 
 ### JAN - MARCH COHORT 2024
-To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
 https://x.com/thecore21m/status/1765315772304204013?s=20
 
