@@ -41,7 +41,7 @@ Christopher Mawaniki (Kenyan): IT/Technical Depertement
 ### ONLINE BITCOIN EDUCATION | BITCOIN DIPLOMA 
 To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
-### APRIL - JUNE COHOT 2024
+### APRIL - JUNE COHORT 2024
 
 ### JAN - MARCH COHORT 2024
 
