@@ -26,9 +26,9 @@ Jeph Mukiza (Uganda): Accounting
 
 Grant Gombwa (Malawi): Project Manager.
 
-Angella (Ugandan): Co-host and Educator at The Core.
+Angella (Ugandan): Community Mnager and Educator at The Core.
 
-Winfred Wambui (Kenyan): Data Management 
+Winfred Wambui (Kenyan): Data Manager
 
 Gaylord Ndonga (Kenyan): Photographer and Videographer, capturing our content's essence.
 
