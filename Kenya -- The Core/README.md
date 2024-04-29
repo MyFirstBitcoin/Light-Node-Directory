@@ -92,7 +92,7 @@ https://www.instagram.com/p/C037aiZMMuH/?igsh=MWFuNHFiaWgwY3V5NA==
 
 MONTHLY MEETUPS - KENYA
 
-##20th April 2024
+## 20th April 2024
 
 https://x.com/thecore21m/status/1784686728327893453
 
