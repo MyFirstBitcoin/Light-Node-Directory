@@ -13,12 +13,14 @@ Trevor Schrock, Founder
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Argentina%20%20--%20Bitcoin%20School/Founder%20Snapshot.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** June 2024
+- **Number of Students Graduated:** 100+
 
 ## 🏆 Recent Achievements
 Launch of "Bitcoin y Birra" December 2023
 Launch of MPB Diploma classes Feb 2024 
+Partnership formed with Universidad Siglo 21, April 2024
+First Hybrid class launched via Siglo 21, April 2024
 
 ## 📞 Contact Information
 - **Website:** www.bitcoinschoolar.com
@@ -28,5 +30,5 @@ Launch of MPB Diploma classes Feb 2024
 - **Phone:** +5493513870613
 - 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through coinos.io/bitcoinschool.
 
