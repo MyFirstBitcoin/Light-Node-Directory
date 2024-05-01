@@ -23,11 +23,7 @@ Partnership formed with Universidad Siglo 21, April 2024
 First Hybrid class launched via Siglo 21, April 2024
 
 ## 📞 Contact Information
-- **Website:** www.bitcoinschoolar.com
-- **Email:** hola@bitcoinschoolar.com
-- **WhatsApp:** +5493513870613
-- **Telegram:** (https://t.me/+KzOHZxApVbU4Yzkx)
-- **Phone:** +5493513870613
+- **Linktree:** https://linktr.ee/bitcoinschoolar
 - 
 ## 💰 Official Donation Link
 Support our activities by donating through coinos.io/bitcoinschool.
