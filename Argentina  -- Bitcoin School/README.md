@@ -9,7 +9,7 @@
 We are providing free, independent, impartial Bitcoin education to the people of Argentina. We are accomplishing this through nightly classes, weekly meetups, monthly self-custody workshops, and general Bitcoin advocacy for the Bitcoin protocol. 
 
 ## 👥 Our Team
-Trevor Schrock, Founder
+- Trevor Schrock, Founder
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Argentina%20%20--%20Bitcoin%20School/Founder%20Snapshot.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
