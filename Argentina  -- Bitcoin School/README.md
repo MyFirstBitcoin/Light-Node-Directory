@@ -17,10 +17,14 @@ Trevor Schrock, Founder
 - **Number of Students Graduated:** 100+
 
 ## 🏆 Recent Achievements
-Launch of "Bitcoin y Birra" December 2023
-Launch of MPB Diploma classes Feb 2024 
-Partnership formed with Universidad Siglo 21, April 2024
-First Hybrid class launched via Siglo 21, April 2024
+- Launch of "Bitcoin y Birra" December 2023
+- Launch of MPB Diploma classes Feb 2024 
+- Partnership formed with Universidad Siglo 21, April 2024
+- First Hybrid class launched via Siglo 21, April 2024
+- Joined "Blockstream Local" to gain support/visibility from Blockstream May 2024
+- US-side LLC formed May 2024
+- "Bitcoin Book Club" via Telegram launch May 2024 (first book: "21 Lessons" by Gigi) 
+
 
 ## 📞 Contact Information
 - **Linktree:** https://linktr.ee/bitcoinschoolar
