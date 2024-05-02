@@ -10,6 +10,7 @@ We are providing free, independent, impartial Bitcoin education to the people of
 
 ## 👥 Our Team
 - Trevor Schrock, Founder
+  
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Argentina%20%20--%20Bitcoin%20School/Founder%20Snapshot.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
@@ -22,7 +23,7 @@ We are providing free, independent, impartial Bitcoin education to the people of
 - Partnership formed with Universidad Siglo 21, April 2024
 - First Hybrid class launched via Siglo 21, April 2024
 - Joined "Blockstream Local" to gain support/visibility from Blockstream May 2024
-- US-side LLC formed May 2024
+- US-based LLC formed May 2024
 - "Bitcoin Book Club" via Telegram launch May 2024 (first book: "21 Lessons" by Gigi) 
 
 
