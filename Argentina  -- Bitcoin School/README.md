@@ -30,5 +30,5 @@ We are providing free, independent, impartial Bitcoin education to the people of
 - **Linktree:** https://linktr.ee/bitcoinschoolar
 - 
 ## 💰 Official Donation Link
-Support our activities by donating through coinos.io/bitcoinschool.
+Support our activities by donating through https://geyser.fund/project/bitcoinschoolargentina.
 
