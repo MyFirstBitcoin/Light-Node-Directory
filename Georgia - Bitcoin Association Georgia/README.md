@@ -1,30 +1,29 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ Bitcoin Association Georgia
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Georgia
+- **City:** Tbilisi
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Bitcoin Association Georgia was founded in March 2024 with the main goal to increase Bitcoin adoption in the country by fostering education, and community development.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+Our team consists of high-end professionals who see Bitcoin as the next reserve currency.
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** Upcoming
+- **Number of Students Graduated:** Upcoming
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+Upcoming
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Website:** www.bitcoinassociation.ge
+- **Email:** info@bitcoinassociation.ge
+- **WhatsApp:** N/A
+- **Telegram:** N/A
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through [upcoming].
