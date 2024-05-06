@@ -1,30 +1,35 @@
-# 🏷️ [Insert Name of Your Light Node Here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+# 🏷️ YesBitcoinHaiti
+![Yesbtc haiti new logo](https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/167840061/345b12a4-bb6c-4b05-8052-e2114990cc36)
+
+<!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Haiti
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Our goal is to empower the Haitian community by spreading awareness and education about Bitcoin throughout Haiti.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+![IMG-20240410-WA0012](https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/167840061/09813965-f019-4914-b4e7-dfb13b4b468d)
+ 
+ Val and Papouche
+
+
+<!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** TBA
+- **Number of Students Graduated:** TBA
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+2024 Achievements
+
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+
+- - **Telegram:** https://t.me/yesbitcoinhaiti
+- **X/Twitter:** @HaitianHODL
+
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through https://geyser.fund/project/yestbitcoinhaiti
