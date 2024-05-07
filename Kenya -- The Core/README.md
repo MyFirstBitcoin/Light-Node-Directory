@@ -180,6 +180,9 @@ We have successfully set up our website online, and it is still under developmen
 https://thecore.africa/
 
 
+### SOCIAL IMPACT
+
+
 ## 📞 Contact Information
 - **Website:** https://thecore.africa/
 - **Email:** connect@thecore.africa
