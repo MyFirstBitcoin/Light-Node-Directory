@@ -23,7 +23,7 @@ We are providing free, independent, impartial Bitcoin education to the people of
 - Partnership formed with Universidad Siglo 21, April 2024
 - First Hybrid class launched via Siglo 21, April 2024
 - Joined "Blockstream Local" to gain support/visibility from Blockstream, May 2024
-- US-based LLC formed, May 2024
+- US-based entity formed, pursuing non-profit status May 2024
 - "Bitcoin Book Club" via Telegram launch (first book: "21 Lessons" by Gigi), May 2024  
 
 
