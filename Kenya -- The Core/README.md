@@ -43,6 +43,10 @@ To provide comprehensive Bitcoin education through the Bitcoin Diploma course.
 
 ### APRIL - JUNE COHORT 2024
 
+https://x.com/thecore21m/status/1788284708230406617
+
+https://x.com/thecore21m/status/1787911524733911041
+
 https://x.com/thecore21m/status/1785744174790185019
 
 https://x.com/thecore21m/status/1785578212824645778
