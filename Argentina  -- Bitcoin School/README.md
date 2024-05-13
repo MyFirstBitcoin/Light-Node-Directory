@@ -6,7 +6,7 @@
 - **City:** Córdoba
 
 ## 📖 About Us
-We are providing free, independent, impartial Bitcoin education to the people of Argentina. We are accomplishing this through nightly classes, weekly meetups, monthly self-custody workshops, and general Bitcoin advocacy for the Bitcoin protocol. 
+We are providing free, independent, impartial Bitcoin education to the people of Argentina. We are accomplishing this through weekly classes, local meetups, monthly self-custody workshops, and general Bitcoin advocacy for the Bitcoin protocol. 
 
 ## 👥 Our Team
 - Trevor Schrock, Founder
