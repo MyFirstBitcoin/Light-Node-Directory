@@ -19,9 +19,9 @@ Glenn Jooste
 
 ## ⛏ Now building
 - Adapting MPB Bitcoin Diploma student workbook for online presentation in progress.
-    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U">Chapter 3</a>
-    + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo">Chapter 4</a>
-    + <a href="https://docs.google.com/presentation/d/1iUipWV8AMSH4WV-QGw1rereNMwc73t1FJBEXUU1e0ow">Chapter 5</a>
+    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U">Chapter 3 - 2023</a>
+    + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo">Chapter 4 - 2023</a>
+    + <a href="https://docs.google.com/presentation/d/1iUipWV8AMSH4WV-QGw1rereNMwc73t1FJBEXUU1e0ow">Chapter 5 - 2024</a>
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
 - Host of <a href="https://twitter.com/OrangeSunSpaces">The Orange Sun</a>, Mon-Fri 06h00-08h00 UTC
