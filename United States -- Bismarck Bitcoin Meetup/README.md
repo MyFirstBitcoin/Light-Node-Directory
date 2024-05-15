@@ -6,7 +6,7 @@
 - **City:** Bismarck, North Dakota
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. 
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
