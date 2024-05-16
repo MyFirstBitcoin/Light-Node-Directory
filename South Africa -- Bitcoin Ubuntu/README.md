@@ -29,6 +29,7 @@ Glenn Jooste
     + <a href="https://btcmap.org/tagger/18374101">btcmap.org/tagger/18374101</a>
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/bethelfarm.jpg" width="300" alt="Bethel Farms">
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/studybitcoin.jpg" width="300" alt="Study Bitcoin">
 
 ## 📞 Contact Information
 - **Website:** https://bitcoinubuntu.org
