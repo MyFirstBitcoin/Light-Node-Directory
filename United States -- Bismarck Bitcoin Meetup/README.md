@@ -17,7 +17,7 @@ Working to build a network of bitcoiners throughout North Dakota with a focus on
 - **Number of Students Graduated:** Coming Q3 2024
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin network (Block Height - 842,726)
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
