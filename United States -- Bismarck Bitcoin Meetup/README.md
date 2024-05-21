@@ -18,6 +18,7 @@ Working to build a network of bitcoiners throughout North Dakota with a focus on
 
 ## 🏆 Recent Achievements
 Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin network (Block Height - 842,726)
+Community submitted to BTCMaps as part of My First Bitcoin's Node Network (844,381)
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
