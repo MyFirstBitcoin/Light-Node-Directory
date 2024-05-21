@@ -9,7 +9,7 @@
 Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. 
 
 ## 👥 Our Team
-Myself and my wife are starting to build this local Bitcoin community. We are excited for the future and looking for others to be involved!
+Myself and my wife are starting to build this local Bitcoin community. Looking for others to be involved!
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
