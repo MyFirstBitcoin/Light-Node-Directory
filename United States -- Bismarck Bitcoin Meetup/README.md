@@ -17,7 +17,7 @@ Myself and my wife are starting to build this local Bitcoin community. We are ex
 - **Number of Students Graduated:** Coming Q3 2024
 
 ## 🏆 Recent Achievements
-Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin network (Block Height - 842,726)
+Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin Network (Block Height - 842,726)
 
 Community submitted to BTCMaps as part of My First Bitcoin's Node Network (844,381)
 
