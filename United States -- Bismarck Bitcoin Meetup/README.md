@@ -9,7 +9,7 @@
 Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. 
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+Myself and my wife are starting to build this local Bitcoin community. We are excited for the future and looking for others to be involved!
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
@@ -18,6 +18,7 @@ Working to build a network of bitcoiners throughout North Dakota with a focus on
 
 ## 🏆 Recent Achievements
 Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin network (Block Height - 842,726)
+
 Community submitted to BTCMaps as part of My First Bitcoin's Node Network (844,381)
 
 ## 📞 Contact Information
