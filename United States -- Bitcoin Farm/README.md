@@ -21,9 +21,8 @@ We started as a local meetup group and have colaborated with our neighbor meetup
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** (https://www.lancobitco.in/bitcoinfarm/)
-- **Email:** (https://t.co/WVlV4XIftW)
-- **WhatsApp:** [Insert WhatsApp Number Here]
+- **Website:** https://www.lancobitco.in/bitcoinfarm/
+- **Email:** https://t.co/WVlV4XIftW
 - **Telegram:** https://t.me/bitcoinf4rm
 - **Phone:** 17175736468
 
