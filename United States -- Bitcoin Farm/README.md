@@ -3,13 +3,14 @@
 
 ## 📍 Location
 - **Country:** United States
-- **City:** [Insert City Here]
+- **City:** Lancaster County Pennsylvania
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Our Mission is to educate farmers, merchants, locals and youth about Bitcoin.
+Long term we want to start a seasonal camp to train students in farming and finance.
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+We started as a local meetup group and have colaborated with our neighbor meetups to create Bitcoin Farm.
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
@@ -20,11 +21,11 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
+- **Website:** (https://www.lancobitco.in/bitcoinfarm/)
+- **Email:** (https://t.co/WVlV4XIftW)
 - **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Telegram:** https://t.me/bitcoinf4rm
+- **Phone:** 17175736468
 
 ## 💰 Official Donation Link
 Support our activities by donating through [insert your donation link here].
