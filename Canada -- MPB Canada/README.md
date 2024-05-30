@@ -1,4 +1,4 @@
-# 🏷️ My First Bitcoin Canada / Mon Premier Bitcoin Canada / Mi Primer Bitcoin Canada
+# 🏷️ Canadian Bitcoin Education Network <br /> Formerly: My First Bitcoin Canada / Mon Premier Bitcoin Canada / Mi Primer Bitcoin Canada
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/156359412/1e11292c-5a2d-4428-8548-dd906116f51a" width="300" alt="Logo or Picture of the Node">
 <!-- 1 picture maximum -->
 
@@ -16,8 +16,8 @@ Currently, our team is small—a cozy group of four educators: Jaime, Leander, D
  <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** June 13, 2023
-- **Number of Students Graduated:** 13
+- **Dates of Graduations:** April, 2024
+- **Number of Students Graduated:** 21
 
 ## 🏆 Recent Achievements
 <ul>
@@ -25,7 +25,11 @@ Currently, our team is small—a cozy group of four educators: Jaime, Leander, D
   <li>December 2023: Proposal to Saskatchewan Polytechnic for offering MPB classes in their Tech and Business programs</li>
   <li>December 2023: Proposal to Regina Public Library to offer free MPB classes to the community</li>
   <li>January 2024: Awarded First Full Node Status outside El Salvador</li>
-  <li>May 2024: Workshop and MPB Presentation at Canadian Bitcoin Conference 2024</li>
+  <li>May 2024: Workshop and MPB Presentation at Canadian Bitcoin Conference 2024 in Montreal</li>
+  <li>May 2024: Recruitment of French Translators</li>
+  <li>May 2024: Recruitment of Armenian and Tagalog Translators</li>
+  <li>May 2024: Recruitment of Philippines and Lebanon Light Nodes</li>
+  <li>July 2024: Workshop and Booth at Bitcoin 2024 in Calgary</li>
 </ul>
 
 ## 📞 Contact Information
