@@ -25,7 +25,7 @@ We are providing free, independent, impartial Bitcoin education to the people of
 - Joined "Blockstream Local" to gain support/visibility from Blockstream, May 2024
 - US-based entity formed, pursuing non-profit status May 2024
 - "Bitcoin Book Club" via Telegram launch (first book: "21 Lessons" by Gigi), May 2024  
-
+- Website is now live! (June 2024); more features coming soon
 
 ## 📞 Contact Information
 - **Linktree:** https://linktr.ee/bitcoinschoolar
