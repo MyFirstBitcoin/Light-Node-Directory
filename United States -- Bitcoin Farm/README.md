@@ -24,7 +24,6 @@ We started as a local meetup group and have colaborated with our neighbor meetup
 - **Website:** https://www.lancobitco.in/bitcoinfarm/
 - **Email:** https://t.co/WVlV4XIftW
 - **Telegram:** https://t.me/bitcoinf4rm
-- **Phone:** 17175736468
 
 ## 💰 Official Donation Link
 Support our activities by donating through [insert your donation link here].
