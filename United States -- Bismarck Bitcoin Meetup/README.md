@@ -24,9 +24,9 @@ Community submitted to BTCMaps as part of My First Bitcoin's Node Network. (844,
 Google Classroom Setup In collaboration with the Mi Primer Bitcoin team.
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **Telegram:** [Insert Telegram Contact Here]
+- **Website:** TBD
+- **Email:** TBD
+- **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 - **Phone:** [Insert Phone Number Here]
 
 ## 💰 Official Donation Link
