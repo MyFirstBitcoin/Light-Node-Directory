@@ -21,7 +21,7 @@ Successfully Joined My First Bitcoin as a Light Node: Joined the Mi Primer Bitco
 
 Community submitted to BTCMaps as part of My First Bitcoin's Node Network. (844,381)
 
-Google Classroom Setup In collaboration with the Mi Primer Bitcoin team.
+Google Classroom Setup in collaboration with the Mi Primer Bitcoin team.
 
 ## 📞 Contact Information
 - **Website:** TBD
