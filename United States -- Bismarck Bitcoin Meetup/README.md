@@ -10,7 +10,7 @@ Working to build a network of bitcoiners throughout North Dakota with a focus on
 
 ## 👥 Our Team
 Myself and my wife are starting to build this local Bitcoin community. Looking for others to be involved!
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Bart_Bitcoin_Diploma_1.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** Coming Q3 2024
