@@ -6,7 +6,7 @@
 - **City:** Bismarck, North Dakota
 
 ## 📖 About Us
-Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. Our goal is to get individuals to that bitcoin lightbulb moment!
+We are beginning to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. Our goal is to get individuals to that bitcoin lightbulb moment! 💡
 
 ## 👥 Our Team
 Myself (Bart Gnirk) and my wife are starting to educate people about Bitcoin in our community. We are looking for others to be involved!
@@ -17,14 +17,15 @@ Myself (Bart Gnirk) and my wife are starting to educate people about Bitcoin in 
 - **Number of Students Graduated:** Coming Q3 2024
 
 ## 🏆 Recent Achievements
-Successfully Joining My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin Network (Block Height - 842,726)
+Successfully Joined My First Bitcoin as a Light Node: Joined the Mi Primer Bitcoin Network. (Block Height - 842,726)
 
-Community submitted to BTCMaps as part of My First Bitcoin's Node Network (844,381)
+Community submitted to BTCMaps as part of My First Bitcoin's Node Network. (844,381)
+
+Google Classroom Setup In collaboration with the Mi Primer Bitcoin team.
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
 - **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
 
