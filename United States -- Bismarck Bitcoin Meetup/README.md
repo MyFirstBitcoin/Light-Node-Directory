@@ -30,4 +30,4 @@ Google Classroom Setup in collaboration with the Mi Primer Bitcoin team.
 - **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through [TBD].
