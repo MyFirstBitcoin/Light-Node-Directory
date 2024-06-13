@@ -6,10 +6,10 @@
 - **City:** Bismarck, North Dakota
 
 ## 📖 About Us
-Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. 
+Working to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. Our goal is to get individuals to that bitcoin lightbulb moment!
 
 ## 👥 Our Team
-Myself and my wife are starting to build this local Bitcoin community. Looking for others to be involved!
+Myself (Bart Gnirk) and my wife are starting to educate people about Bitcoin in our community. We are looking for others to be involved!
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bismarck%20Bitcoin%20Meetup/Bart_Bitcoin_Diploma_1.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
