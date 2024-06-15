@@ -18,10 +18,13 @@ Glenn Jooste
 - Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
 
 ## ⛏ Now building
+- Presenting MPB Bitcoin Diploma online to our first independently run <a href="https://bitcoinubuntu.org/enroll/">online cohort</a>.
+- Presenting MPB Bitcoin Diploma online to our third cohortwith <a href="https://thecore.africa/">The Core</a>.
 - Adapting MPB Bitcoin Diploma student workbook for online presentation in progress.
     + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U">Chapter 3 - 2023</a>
     + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo">Chapter 4 - 2023</a>
     + <a href="https://docs.google.com/presentation/d/1iUipWV8AMSH4WV-QGw1rereNMwc73t1FJBEXUU1e0ow">Chapter 5 - 2024</a>
+    + <a href="https://docs.google.com/presentation/d/1k6W1sIRzmc9oyNlRR7ZbBtxUr9W-owslrzjD7XpJ5zk">Chapter 7 - 2024</a>
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
 - Host at <a href="https://twitter.com/OrangeSunSpaces">The Orange Sun</a>, Mon-Fri 06h00-08h00 UTC
