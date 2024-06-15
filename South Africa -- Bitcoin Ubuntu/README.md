@@ -19,7 +19,7 @@ Glenn Jooste
 
 ## ⛏ Now building
 - Presenting MPB Bitcoin Diploma online to our first independently run <a href="https://bitcoinubuntu.org/enroll/">online cohort</a>.
-- Presenting MPB Bitcoin Diploma online to our third cohortwith <a href="https://thecore.africa/">The Core</a>.
+- Presenting MPB Bitcoin Diploma online to our third cohortwith <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
 - Adapting MPB Bitcoin Diploma student workbook for online presentation in progress.
     + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U">Chapter 3 - 2023</a>
     + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo">Chapter 4 - 2023</a>
