@@ -1,6 +1,5 @@
 # 🏷️ Bismarck Bitcoin Meetup
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bismarck%20Bitcoin%20Meetup/Bismark-Bitcoin-Logo_horizontal%20slogan.png"> <!-- 1 picture maximum -->
-- **Logo in progress. Coming soon!**
 
 ## 📍 Location
 - **Country:** United States
