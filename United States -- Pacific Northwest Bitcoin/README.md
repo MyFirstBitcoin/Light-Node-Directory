@@ -2,14 +2,14 @@
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** [United States]
+- **City:** [Spokane]
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+[Pacific Northewest Bitcoin is a bitcoin-only education and networking organization with the goal of furthering the overall bitcoin mission in the PNW. Having recently been accepted into the MPB node network, PNW BTC is excited to offer the diploma to folks in the Pacific Northwest. Beyond education, PNW BTC hosts regular bitcoin meetups to bring bitcoiners together.]
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
+[Founded by brothers, Andrew and Matthew Mastronardi. ]
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
@@ -20,8 +20,8 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
+- **Website:** [pnwbtc.com]
+- **Email:** [matthew@pnwbtc.com  andrew@pnwbtc.com]
 - **WhatsApp:** [Insert WhatsApp Number Here]
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
