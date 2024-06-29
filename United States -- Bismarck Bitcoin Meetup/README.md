@@ -28,4 +28,4 @@ Google Classroom Setup in collaboration with the Mi Primer Bitcoin team.
 - **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 
 ## 💰 Official Donation Link
-Support our activities by donating through our Zaprite payment link: https://pay.zaprite.com/pl_ohwGuY8PTU
+Support our activities by donating through our GetAlby page: https://getalby.com/p/bismarckbitcoin
