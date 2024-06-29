@@ -24,7 +24,7 @@ Google Classroom Setup in collaboration with the Mi Primer Bitcoin team.
 
 ## 📞 Contact Information
 - **Website:** TBD
-- **Email:** TBD
+- **Email:** bismarckbitcoin@gmail.com
 - **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 
 ## 💰 Official Donation Link
