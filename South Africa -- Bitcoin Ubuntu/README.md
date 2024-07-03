@@ -15,11 +15,13 @@ Glenn Jooste
 
 ## 🏆 Recent Achievements
 - Contributor to <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core's</a> online presentation of My First Bitcoin's diploma course.
+- Completed third cohort as volunteer tutor with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
+- Celebrated 1 year as host of <a href="https://x.com/OrangeSunSpaces">The Orange Sun</a>.
 - Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
 
 ## ⛏ Now building
 - Presenting MPB Bitcoin Diploma online to our first independently run <a href="https://bitcoinubuntu.org/enroll/">online cohort</a>.
-- Presenting MPB Bitcoin Diploma online to our third cohort with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
+- Presenting MPB Bitcoin Diploma online to our fourth cohort with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
 - Adapting MPB Bitcoin Diploma student workbook for online presentation.
     + <a href="https://docs.google.com/presentation/d/1aC_7KbktC8nZlPTyBJhKdulfZhLeOGMFOUvY0WRcgt8">Chapter 1 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/102F8iR3l28FH4ZxNSjyJim4msBCbQEhYmlM1O0QffJQ">Chapter 2 - 2024</a>
