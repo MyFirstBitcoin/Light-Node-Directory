@@ -1,5 +1,5 @@
 # 🏷️ Pacific Northwest Bitcoin
-<img src="https://www.canva.com/design/DAGI5HD1d24/JPUBcTT66_egH-tu9G6K_A/view" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+![PACIFIC NORTHWEST BITCOIN](https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/168684343/9d24bfb4-5772-438f-94ec-80639c89090d)
 
 ## 📍 Location
 - **Country:** United States
