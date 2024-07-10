@@ -10,7 +10,6 @@ Pacific Northewest Bitcoin is a bitcoin-only education and networking organizati
 
 ## 👥 Our Team
 Founded by brothers, Andrew and Matthew Mastronardi. 
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** [None as of yet]
