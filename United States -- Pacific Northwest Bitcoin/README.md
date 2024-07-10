@@ -13,8 +13,8 @@ Founded by brothers, Andrew and Matthew Mastronardi.
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** [None as of yet]
+- **Number of Students Graduated:** [None as of yet]
 
 ## 🏆 Recent Achievements
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
@@ -22,9 +22,7 @@ Founded by brothers, Andrew and Matthew Mastronardi.
 ## 📞 Contact Information
 - **Website:** pnwbtc.com
 - **Email:** matthew@pnwbtc.com  andrew@pnwbtc.com
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Telegram:** [@PNWBTC]
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through [pacificnorthwestbitcoin@geyser.fund].
