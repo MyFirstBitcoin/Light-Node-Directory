@@ -1,5 +1,5 @@
 # 🏷️ Pacific Northwest Bitcoin
-![PACIFIC NORTHWEST BITCOIN](https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/168684343/9d24bfb4-5772-438f-94ec-80639c89090d)
+![PACIFIC NORTHWEST BITCOIN](https://github.com/MyFirstBitcoin/Light-Node-Directory/assets/168684343/c3f6bdb6-ca29-44ba-97ab-8d82bb6f0830)
 
 ## 📍 Location
 - **Country:** United States
