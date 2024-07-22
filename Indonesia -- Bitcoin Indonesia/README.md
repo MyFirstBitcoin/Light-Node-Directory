@@ -1,5 +1,5 @@
 # 🏷️ Bitcoin Indonesia & Bitcoin House Bali
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/37ba241682749014b3cab8c5f991dc22f200bb6d/Indonesia%20--%20Bitcoin%20Indonesia/Bitcoin%20Indonesia%20Logo%20Black%20Font.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Indonesia
