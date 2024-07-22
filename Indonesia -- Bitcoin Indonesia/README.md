@@ -1,6 +1,5 @@
 # 🏷️ Bitcoin Indonesia & Bitcoin House Bali
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/37ba241682749014b3cab8c5f991dc22f200bb6d/Indonesia%20--%20Bitcoin%20Indonesia/Bitcoin%20Indonesia%20Logo%20Black%20Font.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
-
 ## 📍 Location
 - **Country:** Indonesia
 - **City:** Nation-wide, Focus: Bali (Canggu)
@@ -11,6 +10,7 @@ We are a non-profit, Bitcoin-only organisation that aims to empower Indonesia th
 ## 👥 Our Team
 Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius (from Germany), Dimas (from Indonesia) & Petras (from Lithuania). However, now there are around 21 local community leaders & volunteers from Indonesia and abroad who contribute to the project by running meetups, growing local communities, writing articles for the education hub, etc.
 
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Indonesia%20--%20Bitcoin%20Indonesia/Community%20Banner.png" width="600" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 ## 🎓 Graduations
 - **Dates of Graduations:** 0
 - **Number of Students Graduated:** 0
