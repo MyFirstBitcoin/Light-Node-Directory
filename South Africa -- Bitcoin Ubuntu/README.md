@@ -25,12 +25,12 @@ Glenn Jooste
 - Adapting MPB Bitcoin Diploma student workbook for online presentation.
     + <a href="https://docs.google.com/presentation/d/1aC_7KbktC8nZlPTyBJhKdulfZhLeOGMFOUvY0WRcgt8">Chapter 1 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/102F8iR3l28FH4ZxNSjyJim4msBCbQEhYmlM1O0QffJQ">Chapter 2 - 2024</a>
-    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U">Chapter 3 - 2023</a>
+    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U"><del>Chapter 3 - 2023</del></a>
     + <a href="https://docs.google.com/presentation/d/15ahnwBLoB1hofvdhCGecDZ3nBonzteHkkaSm0Kyiuto">Chapter 3 - 2024</a>
-    + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo">Chapter 4 - 2023</a>
+    + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo"><del>Chapter 4 - 2023</del></a>
     + <a href="https://docs.google.com/presentation/d/1iUipWV8AMSH4WV-QGw1rereNMwc73t1FJBEXUU1e0ow">Chapter 5 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/1gA8UxPzUO9GANKaZ8We2agwgm-qRWWwtqH2OIKl0uO4">Chapter 6 - 2024</a>
-    + <a href="https://docs.google.com/presentation/d/1w-8ruNW___ilbKGKp0hTdjyq3qq63dtFgABSkW35g2Q">Chapter 7 - 2023</a>
+    + <a href="https://docs.google.com/presentation/d/1w-8ruNW___ilbKGKp0hTdjyq3qq63dtFgABSkW35g2Q"><del>Chapter 7 - 2023</del></a>
     + <a href="https://docs.google.com/presentation/d/1k6W1sIRzmc9oyNlRR7ZbBtxUr9W-owslrzjD7XpJ5zk">Chapter 7 - 2024</a>
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
