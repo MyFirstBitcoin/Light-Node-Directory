@@ -16,7 +16,7 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 - **Number of Students Graduated:** 0
 
 ## 🏆 Recent Achievements
-We just finalized the onboarding phase, are looking forward to the educator training in August, are getting ready to start our first co-horts in Bandung, Bali & Surabaya in August 2024. Also, we help finalizing the translation of the workbook into Bahasa Indonesia by proof-reading.
+We participated in the educator training in August and started our first co-hort in Bandung (Java Island) with a amazing number of 11 students. The cohort at the Bitcoin House Bali will start on 28th of August. We already have 9 sign-ups so far. Also, we currently finalizing the translation of the workbook into Bahasa Indonesia (by proof-reading, optimizing etc.).
 
 ## 📞 Contact Information
 - **Website:** www.bitcoinindonesia.xyz
