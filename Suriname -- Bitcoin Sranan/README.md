@@ -1,13 +1,15 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+
+# 🏷️ Bitcoin Sranan - Suriname
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Suriname
+- **City:** Paramaribo
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Our goal is to promote the adoption of Bitcoin and the Lightning Network in Suriname, as well as educate local communities on the potential benefits of these technologies.
 
+Inspired by successful circular economies like Bitcoin Beach, Bitcoin Jungle, Praia Bitcoin Brazil and Bitcoin Kampala, we will set up and maintain a Bitcoin Circular Economy to serve local communities across the country. 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
@@ -20,10 +22,10 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
+- **Website:** https://bitcoinsranan.com/
+- **Email:** info@bitcoinsranan.com
 - **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
+- **Telegram:** https://t.me/bitcoinsranan
 - **Phone:** [Insert Phone Number Here]
 
 ## 💰 Official Donation Link
