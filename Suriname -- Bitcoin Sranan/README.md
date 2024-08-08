@@ -1,6 +1,6 @@
 
 # 🏷️ Bitcoin Sranan - Suriname
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Suriname%20--%20Bitcoin%20Sranan/RL33iOn.jpg width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src=" Suriname -- Bitcoin Sranan/RL33iOn.jpg width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Suriname
