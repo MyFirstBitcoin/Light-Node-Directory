@@ -1,9 +1,6 @@
-# 🏷️ [Insert Name of Your Light Node Here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+# 🏷️ [Renaissance College Hong Kong)
 
-## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+## 📍 Hong Kong
 
 ## 📖 About Us
 [Insert a brief description of your Light Node, its mission, vision, and activities here]
