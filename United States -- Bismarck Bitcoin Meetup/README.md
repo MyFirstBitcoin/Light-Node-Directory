@@ -6,7 +6,7 @@
 - **City:** Bismarck, North Dakota
 
 ## 📖 About Us
-We are beginning to build a network of bitcoiners throughout North Dakota with a focus on family friendly workshops. Our goal is to get individuals to that bitcoin lightbulb moment! 💡
+We are beginning to build a network of bitcoiners throughout North Dakota with a focus on strong local communities. Our goal is to get individuals to that bitcoin lightbulb moment! 💡
 
 ## 👥 Our Team 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bismarck%20Bitcoin%20Meetup/Bart_Bitcoin_Diploma_1.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
@@ -20,7 +20,9 @@ Successfully Joined My First Bitcoin as a Light Node: Joined the Mi Primer Bitco
 
 Community submitted to BTCMaps as part of My First Bitcoin's Node Network. (844,381)
 
-Google Classroom Setup in collaboration with the Mi Primer Bitcoin team.
+Google Classroom Setup in collaboration with the Mi Primer Bitcoin team. (856,605)
+
+Nostr MPB Light Node Badge Accepted (856,605)
 
 ## 📞 Contact Information
 - **Website:** TBD
