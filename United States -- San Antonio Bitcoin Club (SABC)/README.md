@@ -28,4 +28,4 @@ We are the San Antonio Bitcoin Club, and we are here for the plebs.  We want to 
 - **Phone:** 
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through https://checkout.opennode.com/p/29bda59c-e284-4005-83f6-7d2f02029294?ref=sanantoniobitcoinclub.com.
