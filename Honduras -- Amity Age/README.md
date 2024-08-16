@@ -3,10 +3,10 @@
 
 ## 📍 Location
 - **Country:** Honduras
-- **City:** Roatan
+- **City:** Roatán
 
 ## 📖 About Us
-AmityAge Academy, co-founded by Dusan Matuska, is leading the Bitcoin movement in Roatan.
+AmityAge Academy, co-founded by Dušan Matuška, is leading the Bitcoin movement in Roatan.
 
 AmityAge Academy has emerged as a leader in Bitcoin education on the island, our academy is pioneering the way towards a future where financial empowerment and freedom are accessible to all. We all are committed to expanding our impact globally, aspiring to establish a network of Bitcoin Educators across the world. 
 
