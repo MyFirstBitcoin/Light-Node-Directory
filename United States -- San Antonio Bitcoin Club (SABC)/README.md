@@ -1,12 +1,13 @@
 # 🏷️ San Antonio Bitcoin Club
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img ![SABC](https://github.com/user-attachments/assets/71b22dc3-9486-4ad4-9551-8133f73c1058)
+> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** USA
 - **City:** San Antonio, Texas 
 
 ## 📖 About Us
-We are the local San Antonio Bitcoin Club for the plebs.  We want to build a space for Bitcoiners in the Count Down City to make connections, stir up ideas, and to most importantly create a Bitcoin educational foundation to build a strong community one where we can all draw support from!
+We are the San Antonio Bitcoin Club, and we are here for the plebs.  We want to build a space for Bitcoiners in the Count Down City to make connections, stir up ideas, and most importantly to create a Bitcoin educational foundation to build a strong community one where we can all draw support from!
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
