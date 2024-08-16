@@ -11,6 +11,7 @@ We are the San Antonio Bitcoin Club, and we are here for the plebs.  We want to 
 
 ## 👥 Our Team
 Gabriel Salinas (SABC Founder)
+
 Will Ramirez (SABC Organizer) - Will left his fiat career in 2021 to work in bitcoin mining, and has been slanging hashrate to plebs since then as Director of Sales for a US based asic vendor. During that time, Will became active in the San Antonio Bitcoin community including coorganizing meetups, leading discussions on mining, working with local businesses to begin accepting Bitcoin, and working towards gaining acceptance as a Mi Primer Bitcoin Lite Node.  
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
