@@ -31,5 +31,5 @@ AmityAge Academy has emerged as a leader in Bitcoin education on the island, our
 - Support our Miners4Kids project! Learn more here: https://geyser.fund/project/miners4kids
 
 ## 🎮 Miners4Kids Project
-<img src="Honduras -- Amity Age/Photos/M4K - Main Photo.jpeg">
+<img src="../Honduras -- Amity Age/Photos/M4K - Main Photo.jpeg">
 - The Miners4Kids project, an educational initiative by AmityAge Academy, is designed to make learning both fun and rewarding. Through this competition, children are directly compensated for their educational efforts. AmityAge has donated an S19XP hydro miner, with all proceeds going directly to the participating kids. The competition is hosted on the Yzer app, which teaches the fundamentals of Bitcoin while promoting financial literacy and critical thinking. Miners4Kids aims to inspire the next generation of Bitcoin enthusiasts by making learning an exciting and rewarding experience. Learn more on link here!: https://geyser.fund/project/miners4kids
