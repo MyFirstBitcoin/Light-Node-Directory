@@ -1,4 +1,4 @@
-# 🏷️ AmityAge Academy
+# 🏷️ AmityAge Academy - Bitcoin Center Roatán
 <img src="../Honduras -- Amity Age/Photos/AmityAge - Logo.PNG"> <!-- 1 picture maximum -->
 
 ## 📍 Location
