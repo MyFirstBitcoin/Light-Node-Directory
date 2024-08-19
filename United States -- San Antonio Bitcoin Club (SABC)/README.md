@@ -26,7 +26,7 @@ Will Ramirez (SABC Organizer) - Will left his fiat career in 2021 to work in bit
 - **Website:** https://www.sanantoniobitcoinclub.com/
 - **Email:** Ge@sanantoniobitcoinclub.com
 - **WhatsApp:** 
-- **Telegram:** https://t.me/+zh7gF7VnzT84NTRh?ref=sanantoniobitcoinclub.com
+- **Telegram:** https://t.me/SABC210
 - **Phone:** 
 
 ## 💰 Official Donation Link
