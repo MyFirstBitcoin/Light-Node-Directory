@@ -1,5 +1,5 @@
 # 🏷️ AmityAge Academy
-<img src=../Honduras -- Amity Age/AmityA's Core Team.jpeg> <!-- 1 picture maximum -->
+<img src="../Honduras -- Amity Age/AmityA's Core Team.jpeg"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Honduras
