@@ -1,5 +1,5 @@
 # 🏷️ AmityAge Academy
-<img src=https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Honduras%20--%20Amity%20Age/amityy.PNG> <!-- 1 picture maximum -->
+<img src=../https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/cd2ebca75e7239141b118298b3d121bb95e832f0/Honduras%20--%20Amity%20Age/AmityA's%20Core%20Team.jpeg> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Honduras
