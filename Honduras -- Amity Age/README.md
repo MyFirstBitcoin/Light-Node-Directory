@@ -35,5 +35,5 @@ AmityAge Academy has emerged as a leader in Bitcoin education on the island, our
 <img src="../Honduras -- Amity Age/Photos/Miners4Kids - Logo.jpg">
 
 ## 🌴 Upcoming Events!
-- **Bitcoin Roatn Retreat**: Come to relax and chill with fellow Bitcoiners and explore the most friendly Bitcoin jurisdiction in the world (Próspera) while supporting more than 50 businesses accepting bitcoin across the island. All during unforgettable 5 days on a beautiful Caribbean island - Roatán. Bitcoiners, let’s go BRR! Sign up here: https://www.amityage.com/brr
+- **Bitcoin Roatán Retreat**: Come to relax and chill with fellow Bitcoiners and explore the most friendly Bitcoin jurisdiction in the world (Próspera) while supporting more than 50 businesses accepting bitcoin across the island. All during unforgettable 5 days on a beautiful Caribbean island - Roatán. Bitcoiners, let’s go BRR! Sign up here: https://www.amityage.com/brr
 <img src="../Honduras -- Amity Age/Photos/AmityAge Academy - BRR.png">
