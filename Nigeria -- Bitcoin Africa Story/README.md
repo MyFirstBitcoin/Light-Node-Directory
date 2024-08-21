@@ -28,4 +28,4 @@ Bitcoin - Only Project, We aim to facilitate the adoption of Bitcoin through Bit
 - **Phone:** [Insert Phone Number Here]
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through https://geyser.fund/project/bitcoinafricastory.
