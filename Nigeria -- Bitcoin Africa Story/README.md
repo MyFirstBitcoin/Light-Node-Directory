@@ -22,7 +22,7 @@ Bitcoin - Only Project, We aim to facilitate the adoption of Bitcoin through Bit
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
+- **Email:** Bitcoinafricastory@gmail.com
 - **WhatsApp:** [Insert WhatsApp Number Here]
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
