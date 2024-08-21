@@ -22,7 +22,7 @@ Community submitted to BTCMaps as part of My First Bitcoin's Node Network. (844,
 
 Google Classroom Setup in collaboration with the Mi Primer Bitcoin team. (856,605)
 
-Nostr MPB Light Node Badge Accepted (856,605)
+Nostr MPB Light Node Badge Accepted. (856,605)
 
 ## 📞 Contact Information
 - **Website:** TBD
