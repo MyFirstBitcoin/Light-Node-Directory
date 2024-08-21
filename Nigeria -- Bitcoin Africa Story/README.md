@@ -6,7 +6,8 @@
 - **City:** Lagos
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Bitcoin - Only Project, We aim to facilitate the adoption of Bitcoin through Bitcoin Education, Bitcoin Content, practical Implementation and onboardment
+
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
