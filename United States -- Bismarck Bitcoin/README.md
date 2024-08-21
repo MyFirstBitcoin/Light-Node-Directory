@@ -1,5 +1,5 @@
 # 🏷️ Bismarck Bitcoin
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/United%20States%20--%20Bismarck%20Bitcoin"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/United%20States%20--%20Bismarck%20Bitcoin/Bismark-Bitcoin-Logo_horizontal%20dark%20bg%20slogan.png"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** United States
