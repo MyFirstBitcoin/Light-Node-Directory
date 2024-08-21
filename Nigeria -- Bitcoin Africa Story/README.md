@@ -1,4 +1,4 @@
-# 🏷️ Bitcoin africa story
+# 🏷️ Bitcoin Africa Story
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
