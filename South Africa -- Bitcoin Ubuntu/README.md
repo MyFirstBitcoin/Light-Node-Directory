@@ -36,6 +36,7 @@ Glenn Jooste
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
 - Host at <a href="https://twitter.com/OrangeSunSpaces">The Orange Sun</a>, Mon-Fri 06h00-08h00 UTC
+- Host of <a href="https://x.com/OrangeSunSpaces/status/1821527724000727168">The Bitcoin in Africa Space</a>, Monthly on the 21st, 17h00-19h00 UTC
 - Onboarding of merchants and charity organisations.
     + <a href="https://btcmap.org/tagger/18374101">btcmap.org/tagger/18374101</a>
 
