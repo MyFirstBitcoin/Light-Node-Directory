@@ -16,7 +16,10 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 - **Number of Students Graduated:** 0
 
 ## 🏆 Recent Achievements
-We participated in the educator training in August and started our first co-hort in Bandung (Java Island) with a amazing number of 11 students. The cohort at the Bitcoin House Bali will start on 28th of August. We already have 9 sign-ups so far. We're preparing a cohort in Surabaya to start in October and are exploring ways to start an online cohort. Also, we currently finalizing the translation of the workbook into Bahasa Indonesia (by proof-reading, optimizing etc.).
+- **Bandung**: We started our first co-hort in Bandung with a amazing number of 11 Indonesian students. We taught chapter 1-4 so far. The students love it. 
+- **Bali**: We started our first cohort in Bali on the 28th of August with 7 Indonesian and 3 international students!
+- **Translation, Workbook & Assessment**: We finalized the translation to Bahasa Indonesia and are working on the workbook (60% done). Also, we created 150 multiple choice questions for MFB assessments in Bahasa and English. 
+- **Outlook** We're planning to start an online cohort in October and a cohort in Surabaya in November. The community leader from Surabaya has already participated the educator training. Also we're in contact with 4 Universities to teach there. However, need more ressources and teachers to facilitate all of these sessions.
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/b42c0dbdc981a7713c64935dbe3d5bc5e892e215/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
 
