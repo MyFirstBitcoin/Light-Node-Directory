@@ -5,12 +5,13 @@
 - **City:** Nation-wide, Focus: Bali (Canggu)
 
 ## 📖 About Us
-Bitcoin Indonesia is a Bitcoin-only initiative dedicated to empowering Indonesia through Bitcoin by providing free and open-source education, building local communities, and fostering a circular economy (closed-loop-system). We host over 20 monthly meetups across the country, give presentations at schools and universities, have an online education hub, run regular workshops at Bitcoin House Bali, and much more. With the Bitcoin House Bali, we provide a physical space for everyone interested in learning and experiencing Bitcoin in real-life. It's a safe space to ask questions, try out hardware, rent out books, meet like-minded people, participate in hands-on workshops, buy bitcoin, etc. We aim to give people the tools for economic empowerment, support financial human rights, overcome financial repression, and give them access to freedom technologies (i.e. Bitcoin, Lightning, e-cash, Fedimint, and Nostr). Our mission is to make Bitcoin easily accessible to everyone in Indonesia and to create as many touchpoints and learning opportunities as possible.
+Bitcoin Indonesia is a Bitcoin-only initiative dedicated to empowering Indonesia through Bitcoin by providing free and open-source education, building local communities, and fostering a circular economy (closed-loop-system). We host over 22 monthly meetups across the country, give presentations at schools and universities, have an online education hub, run regular workshops at Bitcoin House Bali, and much more. With the Bitcoin House Bali, we provide a physical space for everyone interested in learning and experiencing Bitcoin in real-life. It's a safe space to ask questions, try out hardware, rent out books, meet like-minded people, participate in hands-on workshops, buy bitcoin, etc. We aim to give people the tools for economic empowerment, support financial human rights, overcome financial repression, and give them access to freedom technologies (i.e. Bitcoin, Lightning, e-cash, Fedimint, and Nostr). Our mission is to make Bitcoin easily accessible to everyone in Indonesia and to create as many touchpoints and learning opportunities as possible.
 
 ## 👥 Our Team
 Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius (from Germany), Dimas (from Indonesia) & Petras (from Lithuania). However, now there are around 21 local community leaders & volunteers from Indonesia and abroad who contribute to the project by running meetups, growing local communities, writing articles for the education hub, etc.
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Indonesia%20--%20Bitcoin%20Indonesia/Community%20Banner.png" width="600" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+
 ## 🎓 Graduations
 - **Dates of Graduations:** 0
 - **Number of Students Graduated:** 0
