@@ -32,7 +32,8 @@ Glenn Jooste
     + <a href="https://docs.google.com/presentation/d/1gA8UxPzUO9GANKaZ8We2agwgm-qRWWwtqH2OIKl0uO4">Chapter 6 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/1w-8ruNW___ilbKGKp0hTdjyq3qq63dtFgABSkW35g2Q"><del>Chapter 7 - 2023</del></a>
     + <a href="https://docs.google.com/presentation/d/1k6W1sIRzmc9oyNlRR7ZbBtxUr9W-owslrzjD7XpJ5zk">Chapter 7 - 2024</a>
-    + <a href="https://docs.google.com/presentation/d/11Whw5igg-8h9P5JXJeDCji-bSsxYU0H2X2DpUhWICFg">Chapter 8 - 2024</a>
+    + <a href="https://docs.google.com/presentation/d/1Ve0dvZKOVQYx5wgRxI59jjxSfstonyEASbF2DxRJ4N8">Chapter 9 - 2024</a>
+    + <a href="https://docs.google.com/presentation/d/12n8X1VQ568nA4hFPRZ4gRPnc8XDX8BY1g5BDl2yEzXw">Chapter 10 - 2024</a>
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
 - Host of <a href="https://twitter.com/OrangeSunSpaces">The Orange Sun</a>, Mon-Fri, 06h00-08h00 UTC
