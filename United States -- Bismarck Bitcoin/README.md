@@ -25,7 +25,7 @@ Google Classroom Setup in collaboration with the Mi Primer Bitcoin team. (856,60
 Nostr MPB Light Node Badge Accepted. (856,605)
 
 ## 📞 Contact Information
-- **Website:** TBD
+- **Website:** https://www.meetup.com/bismarck-bitcoin-meetup/
 - **Email:** bismarckbitcoin@gmail.com
 - **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 
