@@ -17,10 +17,10 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 - **Number of Students Graduated:** 0
 
 ## 🏆 Recent Achievements
-- **Bandung**: We started our first cohort in Bandung with an amazing number of 11 Indonesian students. We taught chapter 1-4 so far. The students love it. 
-- **Bali**: We started our first cohort in Bali on the 28th of August with 7 Indonesian and 3 international students!
-- **Translation, Workbook & Assessment**: We finalized the translation to Bahasa Indonesia and are working on the workbook (60% done). Also, we created 150 multiple choice questions for MFB assessments in Bahasa and English. 
-- **Outlook** We're planning to start an online cohort in October and a cohort in Surabaya in November. The community leader from Surabaya has already participated in the educator training. Also we're in contact with 4 Universities to teach there. However, we need more resources and teachers to facilitate all of these sessions.
+- **Bandung**: We started our first cohort in Bandung with an amazing number of 11 Indonesian students. We taught chapter 1-7 so far. The students love it. 
+- **Bali**: We started our first cohort in Bali on the 28th of August. We taught chapter 1-5 sor far! Some students already bought bitcoin, bought a hardware wallet, and are thinking of how to get involved in Bitcoin.
+- **Translation, Workbook & Assessment**: We finalized the translation to Bahasa Indonesia and also created the workbook in Canva. The books are now being printed for the next cohorts. Also, we created 150 multiple choice questions for MFB assessments in Bahasa and English. 
+- **Outlook** We're planning to start an online cohort on October 1st and a cohort in Surabaya in November. The community leader from Surabaya has already participated in the educator training. Also we're in contact with 4 Universities to teach there. However, we need more resources and teachers to facilitate all of these sessions.
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/b42c0dbdc981a7713c64935dbe3d5bc5e892e215/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
 
