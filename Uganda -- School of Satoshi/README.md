@@ -1,28 +1,31 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ School of Satoshi
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Uganda
+- **City:** Kampala
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+School of Satoshi is a Ugandan education platform/program focused on empowering Ugandans through comprehensive Bitcoin education delivered in the most commonly spoken native/local languages
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:**
+  First cohort Graduation
+  17/08/2024
+  31/08/2024
+- **Number of Students Graduated:** Total of 7 students graduated
 
 ## 🏆 Recent Achievements
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
 - **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
+- **Email:** schoolofsatoshi016@gmail.com
+- **WhatsApp:** +256 726489374
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
 
