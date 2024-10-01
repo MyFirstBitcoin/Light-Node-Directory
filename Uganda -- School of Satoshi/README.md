@@ -1,5 +1,5 @@
 # 🏷️ School of Satoshi
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Uganda%20--%20School%20of%20Satoshi/Logo.jpg" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** Uganda
