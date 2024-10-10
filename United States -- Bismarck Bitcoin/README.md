@@ -6,7 +6,7 @@
 - **City:** Bismarck, North Dakota
 
 ## 📖 About Us
-We are beginning to build a network of bitcoiners throughout North Dakota with a focus on strong local communities. Our goal is to get individuals to that bitcoin lightbulb moment! 💡
+We are beginning to build a network of bitcoiners throughout North Dakota with a focus on strong local communities. Our goal is to get individuals to their bitcoin lightbulb moment! 💡
 
 ## 👥 Our Team 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/8c72f910318e080eed76781c9e47e728ea83ae5e/United%20States%20--%20Bismarck%20Bitcoin/Bart_Bitcoin_Diploma_1.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
