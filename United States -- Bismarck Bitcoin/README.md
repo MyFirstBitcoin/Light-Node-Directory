@@ -9,6 +9,7 @@
 We are beginning to build a network of bitcoiners throughout North Dakota with a focus on strong local communities. Our goal is to get individuals to their bitcoin lightbulb moment! 💡
 
 ## 👥 Our Team 
+Bart Gnirk (Founder & Teacher)
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/8c72f910318e080eed76781c9e47e728ea83ae5e/United%20States%20--%20Bismarck%20Bitcoin/Bart_Bitcoin_Diploma_1.jpg" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
@@ -30,4 +31,4 @@ Nostr MPB Light Node Badge Accepted. (856,605)
 - **Telegram:** https://t.me/+3Vwn_eA1W0BmOTFh
 
 ## 💰 Official Donation Link
-Support our activities by donating through our GetAlby page: https://getalby.com/p/bismarckbitcoin
+Support our activities by donating through our Geyser Project: https://geyser.fund/project/bismarckbitcoin
