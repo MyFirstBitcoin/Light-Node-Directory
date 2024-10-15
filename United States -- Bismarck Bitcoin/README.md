@@ -32,3 +32,7 @@ Nostr MPB Light Node Badge Accepted. (856,605)
 
 ## 💰 Official Donation Link
 Support our activities by donating through our Geyser Project: https://geyser.fund/project/bismarckbitcoin
+
+For financial transparency, our previous expenses can be viewed on this shared spreadsheet https://docs.google.com/spreadsheets/d/12PCoxbMYzCnI42gYWr9dPswsQnplZehHHiL9YVb4TfM/edit?usp=sharing
+
+Thank you for supporting our Node!
