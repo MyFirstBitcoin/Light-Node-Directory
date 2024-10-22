@@ -26,6 +26,8 @@ Google Classroom Setup in collaboration with the Mi Primer Bitcoin team. (856,60
 
 Nostr MPB Light Node Badge Accepted. (856,605)
 
+Geyser Project created for Crowdfunding with Bitcoin. (864,893)
+
 ## 📞 Contact Information
 - **Website:** https://www.meetup.com/bismarck-bitcoin-meetup/
 - **Email:** bismarckbitcoin@gmail.com
