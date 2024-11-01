@@ -14,8 +14,8 @@ AmityAge Academy has emerged as a leader in Bitcoin education on the island, our
 <img src="../Honduras -- Amity Age/Photos/AmityA's Core Team.jpeg"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** 05/13/23, 07/02/23, 09/01/23, 11/22/23, 02/06/2024, 17/06/2024
-- **Number of Students Graduated:** 102
+- **Dates of Graduations:** 05/13/23, 07/02/23, 09/01/23, 11/22/23, 02/06/2024, 17/06/2024, 26/08/2024, 23/10/2024.
+- **Number of Students Graduated:** 122
 
 ## 🏆 Recent Achievements
 - Sucessfully launched the Miners4Kids project.
