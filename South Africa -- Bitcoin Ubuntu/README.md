@@ -25,7 +25,7 @@ Glenn Jooste
 - Adapting MPB Bitcoin Diploma student workbook for online presentation.
     + <a href="https://docs.google.com/presentation/d/1aC_7KbktC8nZlPTyBJhKdulfZhLeOGMFOUvY0WRcgt8">Chapter 1 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/102F8iR3l28FH4ZxNSjyJim4msBCbQEhYmlM1O0QffJQ">Chapter 2 - 2024</a>
-    + <a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U"><del>Chapter 3 - 2023</del></a>
+    + <p style="color:Grey;"><a href="https://docs.google.com/presentation/d/1O9BPCuoM6wxAXndc1e_VyIWMIlvhmBBsF6lVZVj211U"><del>Chapter 3 - 2023</del></a></p>
     + <a href="https://docs.google.com/presentation/d/15ahnwBLoB1hofvdhCGecDZ3nBonzteHkkaSm0Kyiuto">Chapter 3 - 2024</a>
     + <a href="https://docs.google.com/presentation/d/1hdp2-wGCqpKniGIlwOa5RhoAK3DhGOZ0UVy0VY70EDo"><del>Chapter 4 - 2023</del></a>
     + <a href="https://docs.google.com/presentation/d/1iUipWV8AMSH4WV-QGw1rereNMwc73t1FJBEXUU1e0ow">Chapter 5 - 2024</a>
