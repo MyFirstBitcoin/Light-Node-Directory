@@ -13,18 +13,17 @@ Bitcoin Dua is an innovative project in Agbozume, Ghana, empowering youth with B
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** September 14th, 2024
+- **Number of Students Graduated:** 32
 
 ## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+Bitcoin Dua has empowered youth and local businesses in Agbozume, Ghana, through Bitcoin literacy and digital skills training. With funding from Bitcoin Beach and generous donations in sats from people worldwide, the project has successfully onboarded local merchants, like barbershops and restaurants, to accept Bitcoin payments, promoting financial independence and real-world Bitcoin use.
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Website:** https://www.bitcoindua.org/
+- **Email:** bitcoindua67@gmail.com
+- **WhatsApp:** +233241154567
+- **Phone:** +233241154567
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Support our activities by donating through https://geyser.fund/project/bitcoineducationcenter/
