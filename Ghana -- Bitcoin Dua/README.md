@@ -1,12 +1,12 @@
-# 🏷️ [Insert Name of Your Light Node Here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+# 🏷️ Bitcoin Dua
+<img src="https://pbs.twimg.com/profile_banners/1602054615461142528/1671083871/1500x500" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Ghana
+- **City:** Agbozume
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Bitcoin Dua is an innovative project in Agbozume, Ghana, empowering youth with Bitcoin education for financial independence. Our mission is to establish a self-sufficient economy, where everyone appreciates and utilizes Bitcoin's value. We run an Education Center and community programs, educating individuals on Bitcoin's potential for financial empowerment.
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
