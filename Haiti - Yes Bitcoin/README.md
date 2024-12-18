@@ -28,8 +28,8 @@ Our goal is to empower the Haitian community by spreading awareness and educatio
 ## 📞 Contact Information
 
 - - **Telegram:** https://t.me/yesbitcoinhaiti
-- **X/Twitter:** @HaitianHODL
+- **X/Twitter:** https://x.com/yesbitcoinhaiti  @HaitianHODL
 
 
 ## 💰 Official Donation Link
-Support our activities by donating through https://geyser.fund/project/yestbitcoinhaiti
+Support our activities by donating through https://geyser.fund/project/yesbitcoinhaiti
