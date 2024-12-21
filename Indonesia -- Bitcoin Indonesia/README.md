@@ -24,6 +24,8 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 - **Outlook** Cohort in Surabaya will start in January 2025. Also we're in contact we will start teaching 3 different cohorts at a University in Bandung and are in discussions with 2 other universities across the country. 
 
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/b42c0dbdc981a7713c64935dbe3d5bc5e892e215/Indonesia%20--%20Bitcoin%20Indonesia/Bandung%20MFB%201st%20Cohort.jpeg" width="300" alt="Picture of Bandung Cohort"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/Indonesia%20--%20Bitcoin%20Indonesia/People.webp" width="300" alt="Picture of Bali Cohort"> <!-- 1 picture maximum -->
+
 
 ## 📞 Contact Information
 - **Website:** www.bitcoinindonesia.xyz
