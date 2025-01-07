@@ -14,7 +14,7 @@ Bitcoin Indonesia was founded by the 4 co-founders Diana (from Germany), Marius 
 
 ## 🎓 Graduations
 - **Dates of Graduations:** 4
-- **Number of Students Graduated:** 555
+- **Number of Students Graduated:** 57
 
 ## 🏆 Recent Achievements
 - **Bandung**: We run two cohorts in Bandung
