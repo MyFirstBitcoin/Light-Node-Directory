@@ -10,12 +10,12 @@ Bitcoin-only education and outreach initiative, Swellendam, South Africa.
 
 ## 🏆 Recent Achievements
 - Contributor to <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core's</a> online presentation of My First Bitcoin's diploma course.
-- Completed third cohort as volunteer tutor with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
+- Completed fifth cohort as volunteer tutor with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
+- Completed our first independently run online presentation of the MFB Bitcoin Diploma course.
 - Celebrated 1 year as host of <a href="https://x.com/OrangeSunSpaces">The Orange Sun</a>.
-- Nominated African Bitcoiner's 13th most impactful African Bitcoiner of 2023.
+- Nominated African Bitcoiner's 19th most impactful African Bitcoiner of 2024.
 
 ## ⛏ Now building
-- Presenting MPB Bitcoin Diploma online to our first independently run <a href="https://bitcoinubuntu.org/enroll/">online cohort</a>.
 - Presenting MPB Bitcoin Diploma online to our fourth cohort with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
 - Slides adapted from MPB Bitcoin Diploma student workbook for online presentation.
     + <a href="https://docs.google.com/presentation/d/1aC_7KbktC8nZlPTyBJhKdulfZhLeOGMFOUvY0WRcgt8">Chapter 1 - 2024 - Why Do We Need Money?</a>
@@ -33,7 +33,6 @@ Bitcoin-only education and outreach initiative, Swellendam, South Africa.
     + <a href="https://docs.google.com/presentation/d/12n8X1VQ568nA4hFPRZ4gRPnc8XDX8BY1g5BDl2yEzXw">Chapter 10 - 2024 - Why Bitcoin?</a>
 - Additional resources for online presentation.
     + <a href="https://docs.google.com/presentation/d/10MqcXk4NC_H3U6_GaLq83VOaTTvg8lObCUZbOZjy6Fs">The Bitcoin Halving</a>
-- Host of <a href="https://twitter.com/OrangeSunSpaces">The Orange Sun</a>, Mon-Fri, 06h00-08h00 UTC
 - Host of <a href="https://x.com/OrangeSunSpaces/status/1821527724000727168">The Bitcoin in Africa Space</a>, Monthly on the 21st, 17h00-19h00 UTC
 - Onboarding of merchants and charity organisations.
     + <a href="https://btcmap.org/tagger/18374101">btcmap.org/tagger/18374101</a>
