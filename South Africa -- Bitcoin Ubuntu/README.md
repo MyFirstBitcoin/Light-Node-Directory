@@ -16,7 +16,7 @@ Bitcoin-only education and outreach initiative, Swellendam, South Africa.
 - Nominated African Bitcoiner's 19th most impactful African Bitcoiner of 2024.
 
 ## ⛏ Now building
-- Presenting MPB Bitcoin Diploma online to our fourth cohort with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
+- Presenting MPB Bitcoin Diploma online to the sixth cohort with <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core</a>.
 - Slides adapted from MPB Bitcoin Diploma student workbook for online presentation.
     + <a href="https://docs.google.com/presentation/d/1aC_7KbktC8nZlPTyBJhKdulfZhLeOGMFOUvY0WRcgt8">Chapter 1 - 2024 - Why Do We Need Money?</a>
     + <a href="https://docs.google.com/presentation/d/102F8iR3l28FH4ZxNSjyJim4msBCbQEhYmlM1O0QffJQ">Chapter 2 - 2024 - What is Money?</a>
