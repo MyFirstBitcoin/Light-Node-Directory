@@ -43,9 +43,7 @@ Bitcoin-only education and outreach initiative, Swellendam, South Africa.
 ## 📞 Contact Information
 - **Website:** https://bitcoinubuntu.org
 - **Email:** admin@bitcoinubuntu.org
-- **WhatsApp:** +27 71 338 9109
 - **Twitter/Telegram:** BitcoinUbuntu
-- **Phone:** +27 71 338 9109
 
 ## 💰 Official Donation Link
 Support our activities by donating to our lightning address: bitcoinubuntu@blink.sv
