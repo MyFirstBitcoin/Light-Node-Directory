@@ -3,10 +3,9 @@
 
 ## 📍 Location
 - **Country:** South Africa
-- **City:** Swellendam
 
 ## 📖 About Us
-Bitcoin-only education and outreach initiative, Swellendam, South Africa.
+Bitcoin-only education and onboarding initiative.
 
 ## 🏆 Recent Achievements
 - Contributor to <a href="https://github.com/MyFirstBitcoin/Light-Node-Directory/tree/main/Kenya%20--%20The%20Core">The Core's</a> online presentation of My First Bitcoin's diploma course.
