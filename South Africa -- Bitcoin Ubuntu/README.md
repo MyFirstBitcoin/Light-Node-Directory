@@ -45,7 +45,7 @@ Bitcoin-only education and onboarding initiative.
 ## 📞 Contact Information
 - **Website:** https://bitcoinubuntu.org
 - **Email:** admin@bitcoinubuntu.org
-- **Twitter/Telegram:** BitcoinUbuntu
+- **Twitter/Telegram:** @BitcoinUbuntu
 
 ## 💰 Official Donation Link
 Support our activities by donating to our lightning address: bitcoinubuntu@blink.sv
