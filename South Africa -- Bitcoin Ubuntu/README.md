@@ -1,5 +1,5 @@
 # 🏷️ Bitcoin Ubuntu
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/Bitcoin%20Ubuntu%20logo%20with%20outline.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/South%20Africa%20--%20Bitcoin%20Ubuntu/BU_logo_2025_LR.png" width="300" alt="Bitcoin Ubuntu logo"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** South Africa
