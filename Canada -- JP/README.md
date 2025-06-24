@@ -1,12 +1,12 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ BTC Learn
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Canada
+- **City:** Vancouver
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+BTClearn.org a resource for learning bitcon, physical space Bitcoin education space coming 2025
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
@@ -20,8 +20,8 @@
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
+- **Website:** btclearn.org
+- **Email:** hello@btclearn.org
 - **WhatsApp:** [Insert WhatsApp Number Here]
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
