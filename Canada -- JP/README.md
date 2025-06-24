@@ -1,9 +1,9 @@
-# 🏷️ [Insert Name of Your Light Node Here]
+# 🏷️ BTC Learn
 <img src="https://github.com/jpgaviria2/Light-Node-Directory/blob/main/Canada%20--%20JP/BTCLearn.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Canada
+- **City:** Vancouver
 
 ## 📖 About Us
 [Insert a brief description of your Light Node, its mission, vision, and activities here]
