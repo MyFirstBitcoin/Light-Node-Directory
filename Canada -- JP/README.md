@@ -1,5 +1,5 @@
 # 🏷️ [Insert Name of Your Light Node Here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+<img src="https://github.com/jpgaviria2/Light-Node-Directory/blob/main/Canada%20--%20JP/BTCLearn.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
 
 ## 📍 Location
 - **Country:** [Insert Country Here]
