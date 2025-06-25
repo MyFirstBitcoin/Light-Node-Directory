@@ -1,5 +1,6 @@
 # 🏷️ BTC Learn
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+
+<img src="https://github.com/jpgaviria2/Light-Node-Directory/blob/main/Canada%20--%20JP/BTCLearn.png" width="300" alt="Logo or Picture of the Node">
 
 ## 📍 Location
 - **Country:** Canada
@@ -22,6 +23,7 @@ BTClearn.org a resource for learning bitcon, physical space Bitcoin education sp
 ## 📞 Contact Information
 - **Website:** btclearn.org
 - **Email:** hello@btclearn.org
+- **BTCPay Server:** merchant.btclearn.org
 - **WhatsApp:** [Insert WhatsApp Number Here]
 - **Telegram:** [Insert Telegram Contact Here]
 - **Phone:** [Insert Phone Number Here]
