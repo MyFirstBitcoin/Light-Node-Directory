@@ -14,8 +14,8 @@ BTClearn.org a resource for learning bitcon, physical space Bitcoin education sp
 <img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
+- **Dates of Graduations:** 10/01/2025
+- **Number of Students Graduated:** 4
 
 ## 🏆 Recent Achievements
 [Insert details about your recent achievements, awards, recognitions, special events, etc., here]
