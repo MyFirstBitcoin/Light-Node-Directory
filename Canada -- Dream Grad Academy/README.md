@@ -1,30 +1,33 @@
-# 🏷️ [Insert Name of Your Light Node Here]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/logo_placeholder.png" width="300" alt="Logo or Picture of the Node"> <!-- 1 picture maximum -->
+# 🏷️ Dream Grad Academy
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Nevg0vEi-lX7W-OJYvZO-3PG3wciekDasg&s" width="300" alt="Dream Grad Academy"> <!-- 1 picture maximum -->
 
 ## 📍 Location
-- **Country:** [Insert Country Here]
-- **City:** [Insert City Here]
+- **Country:** Canada
 
 ## 📖 About Us
-[Insert a brief description of your Light Node, its mission, vision, and activities here]
+Welcome to Dream Grad Academy, where we understand that financial well-being is a cornerstone of a healthy and fulfilling life. Our mission is to empower individuals and organizations by bridging the gap between traditional and digital finance, with a special focus on Bitcoin education.
+
+In today's rapidly evolving digital landscape, we recognize that understanding and leveraging bitcoin has become essential for personal and professional growth. That's why we've partnered with bitcoinmentor.io, a leading platform in bitcoin education, to deliver comprehensive, personalized learning experiences tailored to your unique needs and goals.
+
+Our expert-led programs combine fundamental self-custody education services with fundamental bitcoin knowledge, ensuring you're well-equipped to navigate the future of money. Whether you're a complete beginner or looking to deepen your existing knowledge, our customized curriculum adapts to your learning pace and objectives.
+
+What sets us apart is our holistic approach to bitcoin education. We don't just teach about Bitcoin – we help you understand its role in the broader Bitcoin ecosystem and how it can contribute to your long-term financial well-being. Our services cover everything from basic concepts to advanced strategies, and practical applications in today's digital and physical economy.
+
+Sourced from: https://www.linkedin.com/company/dreamgradacademy/
 
 ## 👥 Our Team
-[Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+[Coming]
 
 ## 🎓 Graduations
-- **Dates of Graduations:** [Insert List of Graduation Dates Here]
-- **Number of Students Graduated:** [Insert Total Number of Students Here]
-
-## 🏆 Recent Achievements
-[Insert details about your recent achievements, awards, recognitions, special events, etc., here]
+- **Dates of Graduations:** 03/04/2026
+- **Number of Students Graduated:** 10
 
 ## 📞 Contact Information
-- **Website:** [Insert Website URL Here]
-- **Email:** [Insert Email Address Here]
-- **WhatsApp:** [Insert WhatsApp Number Here]
-- **Telegram:** [Insert Telegram Contact Here]
-- **Phone:** [Insert Phone Number Here]
+- **Website:** [[Coming](https://dreamgradacademy.com/)]
+- **[Youtube](https://www.youtube.com/@Dreamgradacademy)**
+- **[X/Twitter](https://x.com/dreamgrdacademy/)**
+- **[Instagram](https://www.instagram.com/dreamgradacademy/)**
+- **[LinkedIn](https://www.linkedin.com/company/dreamgradacademy/about/)**
 
 ## 💰 Official Donation Link
-Support our activities by donating through [insert your donation link here].
+Coming
